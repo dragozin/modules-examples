@@ -1,0 +1,43 @@
+{
+  "name": "@kp-modules/showcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "graphql:codegen": "graphql-codegen --config codegen.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-cli serve"
+  },
+  "peerDependencies": {
+    "@apollo/client": "3.7.17",
+    "next": "13.4.12",
+    "react": "18.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@apollo/client": "3.7.17",
+    "@babel/core": "7.21.4",
+    "@babel/preset-react": "7.18.6",
+    "@babel/preset-typescript": "^7.22.5",
+    "@graphql-codegen/cli": "5.0.0",
+    "@graphql-codegen/client-preset": "4.1.0",
+    "@graphql-codegen/introspection": "4.0.0",
+    "@graphql-codegen/near-operation-file-preset": "2.5.0",
+    "babel-loader": "9.1.0",
+    "html-webpack-plugin": "5.5.0",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "serve": "14.1.2",
+    "typescript": "5.1.6",
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1",
+    "webpack-dev-server": "4.11.1"
+  },
+  "dependencies": {
+    "@graphql-codegen/typescript-compatibility": "^2.1.5",
+    "@graphql-typed-document-node/core": "^3.2.0",
+    "@kinopoisk-int/kp-selections": "workspace:^1.0.0",
+    "@kinopoisk-int/module-kit": "1.0.0"
+  }
+}

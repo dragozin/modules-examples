@@ -1,0 +1,5524 @@
+{
+  "common.ott.components.AppLinks.4e278258dacdc240c44fc064d426ff0b": [
+    {
+      "type": 0,
+      "value": "Apple, логотип Apple являются товарными знаками Apple Inc., зарегистрированными в США и иных странах и регионах. App Store является знаком обслуживания Apple Inc."
+    }
+  ],
+  "common.ott.components.AppLinks.59abf90368cbdfde3c4348076ba81bf4": [
+    {
+      "type": 0,
+      "value": "Google Play и логотип Google Play являются товарными знаками корпорации Google LLC."
+    }
+  ],
+  "common.ott.components.HeaderLink.9c09b75f589abe6b0b014d57823a6f3c": [
+    {
+      "type": 0,
+      "value": "Спецпредложение"
+    }
+  ],
+  "common.ott.components.OverviewMeta.3241bb2b801b15726eb1a4f4505392c8": [
+    {
+      "type": 0,
+      "value": "Топ-10"
+    }
+  ],
+  "common.ott.components.OverviewMeta.b42702f613b910d3f5a03fa8a9cb3dee": [
+    {
+      "type": 1,
+      "value": "position"
+    },
+    {
+      "type": 0,
+      "value": " место"
+    }
+  ],
+  "common.ott.components.Range.b0b27a417dd378523108f09a4ae3c855": [
+    {
+      "type": 0,
+      "value": "Напишем на почту за "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " дня"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " день"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " дней"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "days"
+    }
+  ],
+  "common.ott.components.Rate.304ce2c8c71568195da204b85122598a": [
+    {
+      "type": 0,
+      "value": "Рейтинг"
+    }
+  ],
+  "common.ott.components.Rate.45b3763c4a37a067bc796c6987ecc084": [
+    {
+      "type": 0,
+      "value": "Оценка"
+    }
+  ],
+  "common.ott.components.ServerError.1a1f457bfeb382cf866e9db255536e31": [
+    {
+      "type": 0,
+      "value": "Ошибка сервера"
+    }
+  ],
+  "common.ott.components.ServerError.a3338847f43db7c76d6c37f13f6a697d": [
+    {
+      "type": 0,
+      "value": "Мы уже занимаемся устранением данной проблемы, попробуйте обновить страницу."
+    }
+  ],
+  "common.ott.components.ServerError.dbe5444a9a2c431188f3f130d668c274": [
+    {
+      "type": 0,
+      "value": "Обновить"
+    }
+  ],
+  "common.ott.components.SubtitlesFeatures.621ef22c7cbd2bc9a95312db706e84c4": [
+    {
+      "type": 0,
+      "value": "Субтитры"
+    }
+  ],
+  "common.ott.components.VoiceFeatures.bcea74eb75b3fc5a67e7de841fd3bebb": [
+    {
+      "type": 0,
+      "value": "Аудиодорожки"
+    }
+  ],
+  "common.ott.components.WalletBadge.c33a16c8d7da355c6ca89e41954188a9": [
+    {
+      "type": 1,
+      "value": "balance"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "балла"
+            }
+          ]
+        },
+        "many": {
+          "value": [
+            {
+              "type": 0,
+              "value": "баллов"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "балл"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "баллов"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "balance"
+    }
+  ],
+  "common.ott.components.WalletTooltip.5243a200c2596e844c00e6da1d636e86": [
+    {
+      "type": 0,
+      "value": "1 балл = 1 рубль. Подробнее про кешбэк баллами Плюса на "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "linkText"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "common.ott.entities.filmPurchase.118abccd81172af8b0cc89051e0b5e1b": [
+    {
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Недоступна с"
+            }
+          ]
+        },
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Доступна до"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "availability"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "day"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "month"
+    }
+  ],
+  "common.ott.entities.filmPurchase.3b253b6a9758e55c7264f5814cf9d309": [
+    {
+      "type": 1,
+      "value": "time"
+    },
+    {
+      "type": 0,
+      "value": ", чтобы начать просмотр"
+    }
+  ],
+  "common.ott.entities.filmPurchase.4439cdd525b076b0a0bb314e56dba1e9": [
+    {
+      "type": 0,
+      "value": "Меньше часа"
+    }
+  ],
+  "common.ott.entities.filmPurchase.7cae47acf12f54dc8960b27280dfee03": [
+    {
+      "type": 0,
+      "value": "48 часов"
+    }
+  ],
+  "common.ott.entities.filmPurchase.d381161fabbde26d677750da9e91fe9d": [
+    {
+      "type": 1,
+      "value": "periodText"
+    },
+    {
+      "type": 0,
+      "value": " до завершения просмотра"
+    }
+  ],
+  "common.ott.entities.purchaseOption.6a6fb70d9e4cce0dcf7993fcb80b6185": [
+    {
+      "type": 0,
+      "value": "Вернём"
+    }
+  ],
+  "common.ott.entities.purchaseOption.9f0290e1ddbf6122a679f785bc8d5704": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " балла на счёт"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " балл на счёт"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 7
+            },
+            {
+              "type": 0,
+              "value": " баллов на счёт"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "points"
+    }
+  ],
+  "common.ott.entities.subProfile.16e516b2a78af3b4f8575c01583f61b6": [
+    {
+      "type": 0,
+      "value": "Дети"
+    }
+  ],
+  "common.ott.entities.uiScheme.17bf5ab45d49c58a51797f37aeadef52": [
+    {
+      "type": 0,
+      "value": "с билетов на любые события кроме кино"
+    }
+  ],
+  "common.ott.entities.uiScheme.306cfecc739b7a7fd77b4d4137480f20": [
+    {
+      "type": 0,
+      "value": "за поездки по тарифу \"Фикс\""
+    }
+  ],
+  "common.ott.entities.uiScheme.38131506c2433b19eb5c9cc04e24aea5": [
+    {
+      "type": 0,
+      "value": "и скидка 30% на покупку дополнительного места"
+    }
+  ],
+  "common.ott.entities.uiScheme.47f0b0947d665507d55134b13ad3422c": [
+    {
+      "type": 0,
+      "value": "10% кэшбэка баллами с поездок"
+    }
+  ],
+  "common.ott.entities.uiScheme.4eb13aa9420c13a30c43a156d5568a76": [
+    {
+      "type": 0,
+      "value": "Полный доступ к Музыке"
+    }
+  ],
+  "common.ott.entities.uiScheme.5f485b6b3c2774f219748359c7e3f71f": [
+    {
+      "type": 0,
+      "value": "5% кэшбэка баллами на каршеринг"
+    }
+  ],
+  "common.ott.entities.uiScheme.640e0e13e2e4108fe792a103d59c84e8": [
+    {
+      "type": 0,
+      "value": "до 5% кэшбэка баллами"
+    }
+  ],
+  "common.ott.entities.uiScheme.67f4ab1b0d811898da0ad3a3b67301d0": [
+    {
+      "type": 0,
+      "value": "Плюс к этому"
+    }
+  ],
+  "common.ott.entities.uiScheme.8d1eee7e426f6260f8b97330563e0836": [
+    {
+      "type": 0,
+      "value": "Слушайте музыку на разных устройствах и скачивайте в дорогу в высоком качестве."
+    }
+  ],
+  "common.ott.entities.uiScheme.b645380317c2e6c6c940890250fd014a": [
+    {
+      "type": 0,
+      "value": "в классе «Комфорт», «Комфорт+» и Ultima в приложении"
+    }
+  ],
+  "common.ott.entities.uiScheme.e2ef35808de97d6e3afd6e1c5f468ed5": [
+    {
+      "type": 0,
+      "value": "10% кэшбэка баллами"
+    }
+  ],
+  "common.ott.entities.uiScheme.e8bcfe2fd0f232b3961b2190ff61d84c": [
+    {
+      "type": 0,
+      "value": "Плюс 10 ГБ для файлов"
+    }
+  ],
+  "common.ott.entities.uiScheme.ed59c855c2e43cc451145e60bcdded03": [
+    {
+      "type": 0,
+      "value": "за покупку товаров со специальной отметкой"
+    }
+  ],
+  "common.ott.entities.uiScheme.f8fffae81887c4ad7d262d0f12636ba1": [
+    {
+      "type": 0,
+      "value": "Доступ к Яндекс.Музыке, скидка 10% в приложении Яндекс.Такси (по определённым тарифам), скидка до 12% в Яндекс.Драйве и многое другое. "
+    }
+  ],
+  "common.ott.utils.40de82c2f8fc79c9592a3f43ff7d06a3": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "часа"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "час"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "часов"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "hour"
+    }
+  ],
+  "common.ott.utils.48ed12a954157b000f5025e3cb57abfb": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "серии"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "серия"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "серий"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "episode"
+    }
+  ],
+  "common.ott.utils.5091d787d93676974fc4a91003168969": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "сезона"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "сезон"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "сезонов"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "season"
+    }
+  ],
+  "common.ott.utils.6c4de619987a9b9891462e832ca9cc5b": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "минуты"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "минута"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "минут"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "minute"
+    }
+  ],
+  "common.ott.utils.9691aecec3c4872767ad623f21354dc0": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "фильма"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "фильм"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "фильмов"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "film"
+    }
+  ],
+  "common.ott.utils.e0251c2e02761f2d23193e97b2d3518b": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "оценки"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "оценка"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "оценок"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "votes"
+    }
+  ],
+  "common.ott.utils.ed7805c9813e95d9010de47274e590e0": [
+    {
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "января"
+            }
+          ]
+        },
+        "1": {
+          "value": [
+            {
+              "type": 0,
+              "value": "февраля"
+            }
+          ]
+        },
+        "10": {
+          "value": [
+            {
+              "type": 0,
+              "value": "ноября"
+            }
+          ]
+        },
+        "11": {
+          "value": [
+            {
+              "type": 0,
+              "value": "декабря"
+            }
+          ]
+        },
+        "2": {
+          "value": [
+            {
+              "type": 0,
+              "value": "марта"
+            }
+          ]
+        },
+        "3": {
+          "value": [
+            {
+              "type": 0,
+              "value": "апреля"
+            }
+          ]
+        },
+        "4": {
+          "value": [
+            {
+              "type": 0,
+              "value": "мая"
+            }
+          ]
+        },
+        "5": {
+          "value": [
+            {
+              "type": 0,
+              "value": "июня"
+            }
+          ]
+        },
+        "6": {
+          "value": [
+            {
+              "type": 0,
+              "value": "июля"
+            }
+          ]
+        },
+        "7": {
+          "value": [
+            {
+              "type": 0,
+              "value": "августа"
+            }
+          ]
+        },
+        "8": {
+          "value": [
+            {
+              "type": 0,
+              "value": "сентября"
+            }
+          ]
+        },
+        "9": {
+          "value": [
+            {
+              "type": 0,
+              "value": "октября"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "{month}"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "month"
+    }
+  ],
+  "common.ott.utils.eebff52beb9e181a71e71f4722f469f6": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "дня"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "день"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "дней"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "day"
+    }
+  ],
+  "common.ott.utils.f51bdc0bde93be3277569468f4ea350a": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунды"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунда"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунд"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "seconds"
+    }
+  ],
+  "components.ArrowBottom.72dc4feb03101bac56ae2983567b59c7": [
+    {
+      "type": 0,
+      "value": "Подробнее о подписке"
+    }
+  ],
+  "components.AuthorizationNeeded.63a753751e8899416d62b1d1bbb61720": [
+    {
+      "type": 0,
+      "value": "Войти"
+    }
+  ],
+  "components.AuthorizationNeeded.9981d84f812777bbd591fc30ff8f0229": [
+    {
+      "type": 0,
+      "value": "Войдите на Кинопоиск ,"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 1,
+      "value": "reason"
+    }
+  ],
+  "components.AuthorizationNeeded.bf70198180cab1f8dbe261f9113be5f6": [
+    {
+      "type": 0,
+      "value": "Войдите на Кинопоиск"
+    }
+  ],
+  "components.ChannelsContentCard.3f5989813531f3eb91198de4a80a4ac1": [
+    {
+      "type": 0,
+      "value": "через"
+    }
+  ],
+  "components.ChannelsPage.9df6fc560134a820cb1d5f2e679a4ed8": [
+    {
+      "type": 0,
+      "value": "Другие каналы"
+    }
+  ],
+  "components.CodeForm.7f52a3bee316e17cf3ce7046d7002cf4": [
+    {
+      "type": 0,
+      "value": "Авторизационный код не найден или истёк срок действия"
+    }
+  ],
+  "components.CodeForm.ed6a54c368575611e46a4db78844efe5": [
+    {
+      "type": 0,
+      "value": "Введите код с вашего телевизора"
+    }
+  ],
+  "components.CodePage.5e3e275261d2d0d78c5c89f9d6ec6016": [
+    {
+      "type": 0,
+      "value": "чтобы подключить SmartTV"
+    }
+  ],
+  "components.CodePage.c44841efd0c37b1ec63b9eb96e90f877": [
+    {
+      "type": 0,
+      "value": "чтобы подключить AppleTV"
+    }
+  ],
+  "components.ContentActions.1e9bd55ecf3955e649e34e52176ac6df": [
+    {
+      "type": 0,
+      "value": "Ваша оценка"
+    }
+  ],
+  "components.ContentActions.2e580772fa4279202c61281d456499f4": [
+    {
+      "type": 0,
+      "value": "Трейлер"
+    }
+  ],
+  "components.ContentActions.30fcab6e9759e3c70a89802eb7610eab": [
+    {
+      "type": 0,
+      "value": "Измените или удалите оценку"
+    }
+  ],
+  "components.ContentActions.3cc157c25a00da77328fb905c06b76d0": [
+    {
+      "type": 0,
+      "value": "О сериале"
+    }
+  ],
+  "components.ContentActions.4d5010c70c806f2fb37f7ee7c3d0e565": [
+    {
+      "type": 0,
+      "value": "Поставьте оценку фильму"
+    }
+  ],
+  "components.ContentActions.5dce33e0df0df52626404d0696b2c4fb": [
+    {
+      "type": 0,
+      "value": "О фильме"
+    }
+  ],
+  "components.ContentActions.656b351602a103c7f1afc1e8631d48d2": [
+    {
+      "type": 0,
+      "value": "Просмотрен"
+    }
+  ],
+  "components.ContentActions.711942840a057b284eea1aa961700091": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "components.ContentActions.943ebecb894a3124a8667e64238037ea": [
+    {
+      "type": 0,
+      "value": "Будем показывать меньше похожих фильмов и сериалов"
+    }
+  ],
+  "components.ContentActions.c713eafc0cdd0d72bc457615f511d8ad": [
+    {
+      "type": 0,
+      "value": "Оценить"
+    }
+  ],
+  "components.ContentActions.ca73c68d8af2df87efdfd8c6fbb0e8b6": [
+    {
+      "type": 0,
+      "value": "Поставьте оценку сериалу"
+    }
+  ],
+  "components.ContentActions.dd8ef50fc30fbc8ce34c0ba574791276": [
+    {
+      "type": 0,
+      "value": "Неинтересно"
+    }
+  ],
+  "components.ContentDetails.621ef22c7cbd2bc9a95312db706e84c4": [
+    {
+      "type": 0,
+      "value": "Субтитры"
+    }
+  ],
+  "components.ContentDetails.65ab21fc6cb1a08a9e2b8c19604a30a2": [
+    {
+      "type": 0,
+      "value": "Подробнее на Кинопоиске"
+    }
+  ],
+  "components.ContentDetails.b4c5de0ba82e89fee55f1d6167882c7d": [
+    {
+      "type": 0,
+      "value": "В главных ролях"
+    }
+  ],
+  "components.ContentDetails.b8a3b346ab9fed61bd747f979bfa3a88": [
+    {
+      "type": 0,
+      "value": "моя оценка"
+    }
+  ],
+  "components.ContentDetails.bcea74eb75b3fc5a67e7de841fd3bebb": [
+    {
+      "type": 0,
+      "value": "Аудиодорожки"
+    }
+  ],
+  "components.ContentDetails.e39af3b6e583ac62c47cb4d1a7729e15": [
+    {
+      "type": 0,
+      "value": "Режиссеры"
+    }
+  ],
+  "components.ContentDetails.faf2b872c58346d568e462dbfca07903": [
+    {
+      "type": 0,
+      "value": "Оригинальное название"
+    }
+  ],
+  "components.ContentDetailsList.60134d6bbd4286d0ddd62db03b743c6d": [
+    {
+      "type": 0,
+      "value": "Ещё "
+    },
+    {
+      "type": 1,
+      "value": "count"
+    }
+  ],
+  "components.ContentDetailsList.d0cd2248137f1acac2e79777d856305e": [
+    {
+      "type": 0,
+      "value": "Нет"
+    }
+  ],
+  "components.CoverChildTouch.78a61e539e75575c67e18f9661a95904": [
+    {
+      "type": 0,
+      "value": "Открыть в приложении"
+    }
+  ],
+  "components.CoverChildTouch.7e2d520de5a690270c6f808edef0f2d7": [
+    {
+      "type": 0,
+      "value": "Смотреть кино и мультики удобнее в приложении"
+    }
+  ],
+  "components.CoverChildTouch.b03ad44dc3c5065e92dee755d6f772ec": [
+    {
+      "type": 0,
+      "value": "Волшебный мир с кино и мультиками скрыт за подпиской"
+    }
+  ],
+  "components.CrispySlideDown.dd9463bd5d0c650b468fc5d6cfa1073c": [
+    {
+      "type": 0,
+      "value": "Закрыть"
+    }
+  ],
+  "components.DeepDive.0fbb0a581f318587c197f92c20de5252": [
+    {
+      "type": 0,
+      "value": "Открыть в Яндекс музыке"
+    }
+  ],
+  "components.DeepDive.21ff03a9667f720f688fb77a2c557192": [
+    {
+      "type": 0,
+      "value": "Сохранить в Яндекс музыке"
+    }
+  ],
+  "components.DeepDive.636548028a35807e5e43d43557ec0f7f": [
+    {
+      "type": 0,
+      "value": "Подробнее на Кинопоиске"
+    }
+  ],
+  "components.DeepDive.64f76594e003b748af4ce0aef0cccdbf": [
+    {
+      "type": 0,
+      "value": "Удалить в Яндекс музыке"
+    }
+  ],
+  "components.DeepDive.74ea58b6a801f0dce4e5d34dbca034dc": [
+    {
+      "type": 0,
+      "value": "Сохранить"
+    }
+  ],
+  "components.DeepDive.7e9f98a5cc6ee0fdc3359b90f5d76429": [
+    {
+      "type": 0,
+      "value": "Актёр:"
+    }
+  ],
+  "components.DeepDive.817d1ea7afdd6210755bfaa4e4b73af9": [
+    {
+      "type": 0,
+      "value": "В роли:"
+    }
+  ],
+  "components.DeepDive.9f8d4184579aa5c52bf041f8554b3e4d": [
+    {
+      "type": 0,
+      "value": "Актёры в кадре"
+    }
+  ],
+  "components.DeepDive.9fa37ec623088ef557c350dc365faa60": [
+    {
+      "type": 0,
+      "value": "Не получилось удалить трек"
+    }
+  ],
+  "components.DeepDive.aea75ad3bd07273d3323e12edb1c976a": [
+    {
+      "type": 0,
+      "value": "Трек добавлен"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "в плейлист «Понравилось на Кинопоиске»"
+    }
+  ],
+  "components.DeepDive.c4fbe571ff09cf81a2cdb121cc9b89a6": [
+    {
+      "type": 0,
+      "value": "Не получилось добавить трек"
+    }
+  ],
+  "components.DeepDive.ddb822780880ade966c8a54fad18659a": [
+    {
+      "type": 0,
+      "value": "Сейчас играет"
+    }
+  ],
+  "components.DeepDive.e946df6c55054b21acc3a34853fef684": [
+    {
+      "type": 0,
+      "value": "Открыть"
+    }
+  ],
+  "components.DeepDive.ed2bbfbc53d83d3ad81f7fd6485ac6e8": [
+    {
+      "type": 0,
+      "value": "Удалить"
+    }
+  ],
+  "components.DevicesGrid.789238694258b3b09825deb9d92923c2": [
+    {
+      "type": 0,
+      "value": "превратит телевизор в Смарт ТВ"
+    }
+  ],
+  "components.DevicesGrid.7e627d36b2c6f6b05eff9d430e658d66": [
+    {
+      "type": 0,
+      "value": "2014 г. и новее"
+    }
+  ],
+  "components.DevicesGrid.845428c0157a3654923281e4b90e0cd9": [
+    {
+      "type": 0,
+      "value": "2013 г. и новее"
+    }
+  ],
+  "components.DevicesGrid.9eb3f525778dc31ba0cde1619c94f617": [
+    {
+      "type": 0,
+      "value": "Все устройства"
+    }
+  ],
+  "components.DevicesGrid.c8cf2fe278bbedcfbe5c2e68beb83ea4": [
+    {
+      "type": 0,
+      "value": "Телевизоры и приставки"
+    }
+  ],
+  "components.DevicesGrid.eb1f92dd7dfa728a075167c78d56c795": [
+    {
+      "type": 0,
+      "value": "Обычный телевизор"
+    }
+  ],
+  "components.DevicesLimitReached.21b8f8e4baa3272c40e93289d498760a": [
+    {
+      "type": 0,
+      "value": "Не удалось удалить устройство. Повторите попытку через несколько минут"
+    }
+  ],
+  "components.DevicesLimitReached.abf9fa35c60bac8108fb81505d1fa4a3": [
+    {
+      "type": 0,
+      "value": "Достигнут лимит подключенных устройств, отключите одно из них"
+    }
+  ],
+  "components.EmptySelectionContent.11cb0353fd0c95218c116c41178a48f4": [
+    {
+      "type": 0,
+      "value": "Все просмотренные фильмы и сериалы появятся на этой странице"
+    }
+  ],
+  "components.EmptySelectionContent.3885ca92e5f168b4ed8201885c79aa92": [
+    {
+      "type": 0,
+      "value": "Сохраняйте интересные фильмы и сериалы, чтобы не потерять — они появятся в этом разделе"
+    }
+  ],
+  "components.EmptySelectionContent.3ddda6d2931d3f20ffc026d6d76459a9": [
+    {
+      "type": 0,
+      "value": "На главную"
+    }
+  ],
+  "components.EmptySelectionContent.55f9bfb75937c7c62cf033dd63377f5b": [
+    {
+      "type": 0,
+      "value": "Все остальные возможности доступны только в профиле взрослого"
+    }
+  ],
+  "components.EmptySelectionContent.643d471ff022d38292775149b95f63ba": [
+    {
+      "type": 0,
+      "value": "Перейти в Магазин"
+    }
+  ],
+  "components.EmptySelectionContent.86e45e4cd961b2eec8dd01e8195ad17e": [
+    {
+      "type": 0,
+      "value": "Здесь вы найдёте фильмы из списка «Буду смотреть», покупки и историю просмотра"
+    }
+  ],
+  "components.EmptySelectionContent.b7a2519c1afdce7cdd8c9ae8eaac876a": [
+    {
+      "type": 0,
+      "value": "Здесь вы найдёте историю просмотров и купленные фильмы для детей"
+    }
+  ],
+  "components.EmptySelectionContent.custom-id.history": [
+    {
+      "type": 0,
+      "value": "На главную"
+    }
+  ],
+  "components.EmptySelectionContent.custom-id.personal": [
+    {
+      "type": 0,
+      "value": "На главную"
+    }
+  ],
+  "components.EmptySelectionContent.custom-id.personal-children": [
+    {
+      "type": 0,
+      "value": "На главную"
+    }
+  ],
+  "components.EmptySelectionContent.eae2f45a2c81891c16378f5e8b7a82c2": [
+    {
+      "type": 0,
+      "value": "Покупайте или арендуйте фильмы — они появятся здесь"
+    }
+  ],
+  "components.Error.237205f1eadcd52aa43b9022f298ced3": [
+    {
+      "type": 0,
+      "value": "Сайт сейчас не работает. Попробуйте зайти чуть позже"
+    }
+  ],
+  "components.Error.5ddc85f339b97ee8fa0722bf325283ed": [
+    {
+      "type": 0,
+      "value": "Перейти на главную"
+    }
+  ],
+  "components.Error.af12dda1a8fccb6bafbe89a5e890020d": [
+    {
+      "type": 0,
+      "value": "Написать в поддержку"
+    }
+  ],
+  "components.FamilyDevicesModal.0883190b84e31dd1fd54119f62b5155b": [
+    {
+      "type": 0,
+      "value": "Список устройств"
+    }
+  ],
+  "components.FamilyDevicesModal.54f7d613415c27952f347557bc5217fc": [
+    {
+      "type": 0,
+      "value": "Привязанных устройств нет"
+    }
+  ],
+  "components.FamilyDevicesModal.ad921d60486366258809553a3db49a4a": [
+    {
+      "type": 0,
+      "value": "unknown"
+    }
+  ],
+  "components.FavoriteBadge.711942840a057b284eea1aa961700091": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "components.FavoritesPage.711942840a057b284eea1aa961700091": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "components.FilmCardSaleSubscription.f9358d48c9264c3c9340c02dac6ba762": [
+    {
+      "type": 0,
+      "value": "Подключится сразу, продлевается автоматически. Отключить можно в личном кабинете"
+    }
+  ],
+  "components.FilmCardTabs.1ccfe0c6ae3676fb5dec1f87697de192": [
+    {
+      "type": 0,
+      "value": "Сезоны и серии"
+    }
+  ],
+  "components.FilmCardTabs.3cc157c25a00da77328fb905c06b76d0": [
+    {
+      "type": 0,
+      "value": "О сериале"
+    }
+  ],
+  "components.FilmCardTabs.59dca952c1aa04c36bda1938ffca1856": [
+    {
+      "type": 0,
+      "value": "Детали"
+    }
+  ],
+  "components.FilmCardTabs.5dce33e0df0df52626404d0696b2c4fb": [
+    {
+      "type": 0,
+      "value": "О фильме"
+    }
+  ],
+  "components.FilmCardTabs.custom-id.details-tv-series": [
+    {
+      "type": 0,
+      "value": "Детали"
+    }
+  ],
+  "components.Footer.101299b0fac165aca741253d7453a539": [
+    {
+      "type": 0,
+      "value": "18+"
+    }
+  ],
+  "components.Footer.10ac7a75673ba73e5ab0d891878bb4b5": [
+    {
+      "type": 0,
+      "value": "Задать вопрос"
+    }
+  ],
+  "components.Footer.1237c0cfdcf1754e89fc2e63ae504d32": [
+    {
+      "type": 0,
+      "value": "Кинопоиск"
+    }
+  ],
+  "components.Footer.17ace2f42d3945951bc3358a7b507a2f": [
+    {
+      "type": 0,
+      "value": "Адрес для обращений пользователей: "
+    },
+    {
+      "children": [
+        {
+          "type": 1,
+          "value": "mail"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    }
+  ],
+  "components.Footer.27c047d763b43965406a961520b813a6": [
+    {
+      "type": 0,
+      "value": "Федеральные каналы доступны для бесплатного просмотра круглосуточно"
+    }
+  ],
+  "components.Footer.2e4b70803db97955a55c2661b149269e": [
+    {
+      "type": 0,
+      "value": "Адрес для обращений пользователей"
+    }
+  ],
+  "components.Footer.36eb644d09bbf1c4261bfc009a439a04": [
+    {
+      "type": 0,
+      "value": "Соглашение"
+    }
+  ],
+  "components.Footer.77265ac08eea41af0a75a12284601ab9": [
+    {
+      "type": 0,
+      "value": "Справка"
+    }
+  ],
+  "components.Footer.84973ef7bec921c1762a7a362a7a748b": [
+    {
+      "type": 0,
+      "value": "Мы всегда готовы вам помочь."
+    }
+  ],
+  "components.Footer.8f13b6c95f42b12c9ffeecef25b43c7f": [
+    {
+      "type": 0,
+      "value": "© 2003–"
+    },
+    {
+      "type": 1,
+      "value": "currentYear"
+    }
+  ],
+  "components.Footer.9e452a1cd81a386da19bbf6ba9bb346a": [
+    {
+      "type": 0,
+      "value": "Яндекс"
+    }
+  ],
+  "components.Footer.b746fa1eccf079f06ee3b3c1b4c67ec9": [
+    {
+      "type": 0,
+      "value": "Проект компании"
+    }
+  ],
+  "components.Footer.bd75a283582cfa0db0720b0d25062128": [
+    {
+      "type": 0,
+      "value": "ООО «Кинопоиск», адрес местонахождения: 115035, Россия, г. Москва, ул. Садовническая, д. 82, стр. 2, пом. 9А01"
+    }
+  ],
+  "components.Header.bfc95980634bf529e8a406db2c842b31": [
+    {
+      "type": 0,
+      "value": "Поиск"
+    }
+  ],
+  "components.Header.e0e35f47d5eaf08c537d73a196d1245b": [
+    {
+      "type": 0,
+      "value": "Закрыть поиск"
+    }
+  ],
+  "components.HeaderNavigationMenu.1237c0cfdcf1754e89fc2e63ae504d32": [
+    {
+      "type": 0,
+      "value": "Кинопоиск"
+    }
+  ],
+  "components.HeaderNavigationMenu.44396296b1d696430139d31656372e6f": [
+    {
+      "type": 0,
+      "value": "У вас включен VPN или в вашей стране доступен не весь каталог Кинопоиска"
+    }
+  ],
+  "components.HeaderNavigationMenu.c1844c94c867a68b36d8bae2bc52ad32": [
+    {
+      "type": 0,
+      "value": "Меню навигации"
+    }
+  ],
+  "components.MoreActionsDropdown.afca840a869e35f798eaf2952554344e": [
+    {
+      "type": 0,
+      "value": "Меню действий"
+    }
+  ],
+  "components.MoreActionsDropdownWithRatingHint.3fda18f1980476da175074e60465ce9e": [
+    {
+      "type": 0,
+      "value": "Здесь можно поставить оценку"
+    }
+  ],
+  "components.MusicDeepDiveOnboarding.a1573811084112989231aa91013eb23a": [
+    {
+      "type": 0,
+      "value": "Нажмите на паузу, чтобы узнать, что за музыка сейчас играет"
+    }
+  ],
+  "components.NotFound.023605226ac00cbca7f27bdde055a7cb": [
+    {
+      "type": 0,
+      "value": "Возможно, он был перемещен, или вы просто неверно указали адрес страницы."
+    }
+  ],
+  "components.NotFound.5ddc85f339b97ee8fa0722bf325283ed": [
+    {
+      "type": 0,
+      "value": "Перейти на главную"
+    }
+  ],
+  "components.NotFound.6512be13d39a2a660d12662b69b8d38b": [
+    {
+      "type": 0,
+      "value": "404. Фильм не найден"
+    }
+  ],
+  "components.NotFound.82fc74a4d705405f7eb8aa323632fc3b": [
+    {
+      "type": 0,
+      "value": "Возможно, она была перемещена, или вы просто неверно указали адрес страницы."
+    }
+  ],
+  "components.NotFound.af12dda1a8fccb6bafbe89a5e890020d": [
+    {
+      "type": 0,
+      "value": "Написать в поддержку"
+    }
+  ],
+  "components.NotFound.c1da4c7687fd2eca1115b844993d6fcf": [
+    {
+      "type": 0,
+      "value": "404. Секция не найдена"
+    }
+  ],
+  "components.NotFound.custom-id.section-explanation": [
+    {
+      "type": 0,
+      "value": "Возможно, она была перемещена, или вы просто неверно указали адрес страницы."
+    }
+  ],
+  "components.NotFound.e67a895915e59d11c63ed934d4fa7550": [
+    {
+      "type": 0,
+      "value": "404. Страница не найдена"
+    }
+  ],
+  "components.NotReleasedEpisodeCard.ac1a0ef7a14fe309df8dd2317dff2a2b": [
+    {
+      "type": 0,
+      "value": "Cкоро"
+    }
+  ],
+  "components.Onboarding.1f8336b79bdfc027af67b9e601b7ff21": [
+    {
+      "type": 0,
+      "value": "Подписка одна — а пользоваться могут четверо"
+    }
+  ],
+  "components.Onboarding.20ed2f93e7590061a14fe118d30366ad": [
+    {
+      "type": 0,
+      "value": "А еще безопасный детский раздел для самых маленьких"
+    }
+  ],
+  "components.Onboarding.4478d22122cb46e6783e60f4657187ee": [
+    {
+      "type": 0,
+      "value": "Подходящие по возрасту фильмы и сериалы,"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " собственный продолженный просмотр, а также"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " возможность мягко остановить просмотр"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " в любой момент"
+    }
+  ],
+  "components.Onboarding.7f8472cfc13dde61c1e46d32e405a471": [
+    {
+      "type": 0,
+      "value": "Новые серии в день выхода и тысячи фильмов на вечер. Без рекламы, в хорошем качестве, с любимой озвучкой или в оригинале."
+    }
+  ],
+  "components.Onboarding.8f2bd61ea0c9306043e1172bf3e6d6e1": [
+    {
+      "type": 0,
+      "value": "Что еще входит в подписку"
+    }
+  ],
+  "components.Onboarding.98c850a02e7a0a17fdc59a6cf9995456": [
+    {
+      "type": 0,
+      "value": "Всегда есть что посмотреть"
+    }
+  ],
+  "components.Onboarding.d1faa37d77de4e7fd53db82c89e15a92": [
+    {
+      "type": 0,
+      "value": "Бесплатно добавляйте другие аккаунты, чтобы поделиться возможностями подписки"
+    }
+  ],
+  "components.Onboarding.f19c92ff9b601051f2e17458ed6eaa1a": [
+    {
+      "type": 0,
+      "value": "Подписка одна — а пользоваться могут четверо А еще безопасный детский раздел для самых маленьких"
+    }
+  ],
+  "components.OnboardingDevices.1fd113e0cbe329d3e2836aa0dd57748f": [
+    {
+      "type": 0,
+      "value": "Смотрите кино дома и в дороге"
+    }
+  ],
+  "components.OnboardingDevices.f151819d83978e9f73d9195aa2f6d82e": [
+    {
+      "type": 0,
+      "value": "Начните на телевизоре и продолжите с того же места на смартфоне или планшете."
+    }
+  ],
+  "components.OnboardingDevicesTV.1cfb0595aca7b994b78c501f9d3202c5": [
+    {
+      "type": 0,
+      "value": "На телевизоре"
+    }
+  ],
+  "components.PlayerControls.5bb5ebc302ce0bf79c61fcf47717504a": [
+    {
+      "type": 0,
+      "value": "Выключить звук"
+    }
+  ],
+  "components.PlayerControls.5ef094f3c9ab7031ccb5d8dbcf567935": [
+    {
+      "type": 0,
+      "value": "На весь экран"
+    }
+  ],
+  "components.PlayerControls.a5b4d07b149d34e98e05563814490de7": [
+    {
+      "type": 0,
+      "value": "Включить звук"
+    }
+  ],
+  "components.PlayerSeriesNavigator.77682cc09f52bd5aa0fb8cc3a155766c": [
+    {
+      "type": 0,
+      "value": "Все сезоны"
+    }
+  ],
+  "components.PlayerSkin.03ee826ab16eba9b9d3671e5e371100a": [
+    {
+      "type": 0,
+      "value": "Пропустить"
+    }
+  ],
+  "components.PlayerSkin.088a69880698efbfa6b49c2dbb15f9bd": [
+    {
+      "type": 0,
+      "value": "Объемный звук 5.1"
+    }
+  ],
+  "components.PlayerSkin.0b24cde332da89fc3490c65f31dab0f9": [
+    {
+      "type": 0,
+      "value": "Следующая серия"
+    }
+  ],
+  "components.PlayerSkin.0b5b65fa070d2ce6506ae9c85f01dbc2": [
+    {
+      "type": 0,
+      "value": "Скорость"
+    }
+  ],
+  "components.PlayerSkin.0d88ec7baa0b7632f909e220c0750f09": [
+    {
+      "type": 0,
+      "value": "Отлично"
+    }
+  ],
+  "components.PlayerSkin.14127fc43c91b96aaf3fbe0ffe98f574": [
+    {
+      "type": 0,
+      "value": "Телепрограмма"
+    }
+  ],
+  "components.PlayerSkin.1506b595a90d65d9be2b04f3849b29c7": [
+    {
+      "type": 0,
+      "value": "Повторить поиск устройств"
+    }
+  ],
+  "components.PlayerSkin.1ccfe0c6ae3676fb5dec1f87697de192": [
+    {
+      "type": 0,
+      "value": "Сезоны и серии"
+    }
+  ],
+  "components.PlayerSkin.1f33b40aff2e75f24e5e676032ef78f1": [
+    {
+      "type": 0,
+      "value": "Выкл."
+    }
+  ],
+  "components.PlayerSkin.2befc1b622f74b62da9c6cc5143a5923": [
+    {
+      "type": 0,
+      "value": "Как смотреть Кинопоиск на любом ТВ"
+    }
+  ],
+  "components.PlayerSkin.2d6111573ae860930a917e77afae76c9": [
+    {
+      "type": 0,
+      "value": "Хуже некуда"
+    }
+  ],
+  "components.PlayerSkin.2f63fa9e3da884fdc879f78010505a48": [
+    {
+      "type": 0,
+      "value": "Плохо"
+    }
+  ],
+  "components.PlayerSkin.3029f0f7e46dadaf4f23062846a83c27": [
+    {
+      "type": 0,
+      "value": "Копировать ID просмотра"
+    }
+  ],
+  "components.PlayerSkin.3abdaad608e46210c486b0501281487b": [
+    {
+      "type": 0,
+      "value": "Великолепно"
+    }
+  ],
+  "components.PlayerSkin.3b193761c2f6c1a25d553c0b578ba8ed": [
+    {
+      "type": 0,
+      "value": "Увеличенные"
+    }
+  ],
+  "components.PlayerSkin.3f60f0bf7f738e3da08d30a9c2236457": [
+    {
+      "type": 0,
+      "value": "До рекламы осталось"
+    }
+  ],
+  "components.PlayerSkin.457778be5e4f4693b5a04bf30f45cd47": [
+    {
+      "type": 0,
+      "value": "Оцените фильм"
+    }
+  ],
+  "components.PlayerSkin.4c8967d597f89d50b6e1999be6e62c2f": [
+    {
+      "type": 0,
+      "value": "Оцените сериал"
+    }
+  ],
+  "components.PlayerSkin.51c786fe7ad34bb21a9b2e491bb4e5d8": [
+    {
+      "type": 0,
+      "value": "Размер субтитров"
+    }
+  ],
+  "components.PlayerSkin.52e61e493f0a7935980869250f6b6679": [
+    {
+      "type": 0,
+      "value": "Только стерео"
+    }
+  ],
+  "components.PlayerSkin.540bfe73153e3c8ffd2d24cfca129e1f": [
+    {
+      "type": 0,
+      "value": "Произошла ошибка при попытке отправить на устройство"
+    }
+  ],
+  "components.PlayerSkin.6036c6634b1e7981975de147bb17d532": [
+    {
+      "type": 0,
+      "value": "Слабо"
+    }
+  ],
+  "components.PlayerSkin.621ef22c7cbd2bc9a95312db706e84c4": [
+    {
+      "type": 0,
+      "value": "Субтитры"
+    }
+  ],
+  "components.PlayerSkin.63dc1125a3e9bbf90621e50a8503d68c": [
+    {
+      "type": 0,
+      "value": "Прямой эфир"
+    }
+  ],
+  "components.PlayerSkin.68b4d0adc7ed4c65eaf957ff632da77d": [
+    {
+      "type": 0,
+      "value": "Устройство включено"
+    }
+  ],
+  "components.PlayerSkin.6910910e4610ca36fe7e02b28a15ad03": [
+    {
+      "type": 0,
+      "value": "Попробовать еще раз"
+    }
+  ],
+  "components.PlayerSkin.6bbac7bb02c69c811e1411bec7b29c68": [
+    {
+      "type": 0,
+      "value": "Произошла ошибка при попытке показать устройства"
+    }
+  ],
+  "components.PlayerSkin.6c12ce55e83c182cdd840471fc05fae5": [
+    {
+      "type": 0,
+      "value": "Авто"
+    }
+  ],
+  "components.PlayerSkin.6da0f0ae044012e784cdb53ab72a16f1": [
+    {
+      "type": 0,
+      "value": "Отправить"
+    }
+  ],
+  "components.PlayerSkin.74e684246d0a96135d4af2a95ca834eb": [
+    {
+      "type": 0,
+      "value": "Аудио"
+    }
+  ],
+  "components.PlayerSkin.8dd6dff071c60b5ff28fd733eb17e20f": [
+    {
+      "type": 0,
+      "value": "Аудио и субтитры"
+    }
+  ],
+  "components.PlayerSkin.91af6ed4e0be6a48ab48ec8b6e768568": [
+    {
+      "type": 0,
+      "value": "Стандартные"
+    }
+  ],
+  "components.PlayerSkin.9329d824a215287e7e89691655998649": [
+    {
+      "type": 0,
+      "value": "Звук"
+    }
+  ],
+  "components.PlayerSkin.96dfcf5d9a4882379041072245f3bc17": [
+    {
+      "type": 0,
+      "value": "Хорошо"
+    }
+  ],
+  "components.PlayerSkin.992872a6a070783800faf636f8862fb8": [
+    {
+      "type": 0,
+      "value": "В фильме курят, курение вредит вашему здоровью"
+    }
+  ],
+  "components.PlayerSkin.9a5c4bece80bf01f486b54505cb8f092": [
+    {
+      "type": 0,
+      "value": "Нет устройств, привязанных к вашему аккаунту на Яндексе"
+    }
+  ],
+  "components.PlayerSkin.9d1500bd11606faab2d7b2e10ecf34fa": [
+    {
+      "type": 0,
+      "value": "На канале курят, курение вредит вашему здоровью"
+    }
+  ],
+  "components.PlayerSkin.9e941406889c3924483670876cf2129e": [
+    {
+      "type": 0,
+      "value": "Средне"
+    }
+  ],
+  "components.PlayerSkin.a04be2df2b65b40f9a77f82ee27b599f": [
+    {
+      "type": 0,
+      "value": "В сериале курят, курение вредит вашему здоровью"
+    }
+  ],
+  "components.PlayerSkin.a2acc4b5ca758b7e8229456b4769da5a": [
+    {
+      "type": 0,
+      "value": "Смотреть повтор"
+    }
+  ],
+  "components.PlayerSkin.acab001b498ce51a32a6dabe50ee1e8f": [
+    {
+      "type": 0,
+      "value": "Выше среднего"
+    }
+  ],
+  "components.PlayerSkin.acddfa5bf77e19b9dfe7f426bc2fa168": [
+    {
+      "type": 0,
+      "value": "Размер"
+    }
+  ],
+  "components.PlayerSkin.adf07b17d524e30d19c49cfc4d516cb7": [
+    {
+      "type": 0,
+      "value": "Серии "
+    },
+    {
+      "type": 1,
+      "value": "seasonNumFrom"
+    },
+    {
+      "type": 0,
+      "value": "-"
+    },
+    {
+      "type": 1,
+      "value": "seasonNumTo"
+    }
+  ],
+  "components.PlayerSkin.ae6c9638bd26fa1d38014e24d66d0e77": [
+    {
+      "type": 0,
+      "value": "Скачать системный отчет"
+    }
+  ],
+  "components.PlayerSkin.aefbf08d812e7f0ecf51eeae014f7e3b": [
+    {
+      "type": 0,
+      "value": "Смотреть заставку"
+    }
+  ],
+  "components.PlayerSkin.b03146ce4572384d098dc82ffc19cb3c": [
+    {
+      "type": 0,
+      "value": "Шедевр"
+    }
+  ],
+  "components.PlayerSkin.b0c3c9bec5d2799f28db5edb67091503": [
+    {
+      "type": 0,
+      "value": "Показать все"
+    }
+  ],
+  "components.PlayerSkin.b23628cdbf9ae20388282ddca4ff0f71": [
+    {
+      "type": 0,
+      "value": "Обычная"
+    }
+  ],
+  "components.PlayerSkin.b4a311a2ec9ece8da844cd48a65fb94f": [
+    {
+      "type": 0,
+      "value": "Уменьшенные"
+    }
+  ],
+  "components.PlayerSkin.be89382c8a0442f55d240bd65bfb333f": [
+    {
+      "type": 0,
+      "value": "Неизвестный"
+    }
+  ],
+  "components.PlayerSkin.c1a13db10bc30adc58b0f26bf51c1465": [
+    {
+      "type": 0,
+      "value": "Удалить оценку"
+    }
+  ],
+  "components.PlayerSkin.c55f49ffa9a1742318b750752bfd6372": [
+    {
+      "type": 0,
+      "value": "Смотреть титры"
+    }
+  ],
+  "components.PlayerSkin.c8ef9d0bdd777afe0aeddb8efa4d43f8": [
+    {
+      "type": 0,
+      "value": "Устройство выключено"
+    }
+  ],
+  "components.PlayerSkin.cb29c393c2c6322ddf2325f663c6282a": [
+    {
+      "type": 0,
+      "value": "Вернуться в эфир"
+    }
+  ],
+  "components.PlayerSkin.cb79f276cab6ab20aa015973c8e69a61": [
+    {
+      "type": 0,
+      "value": "Идёт трансляция на устройство"
+    }
+  ],
+  "components.PlayerSkin.cf2d543ab75b3384e958001bfbe3b70e": [
+    {
+      "type": 1,
+      "value": "seasonNum"
+    },
+    {
+      "type": 0,
+      "value": " сезон"
+    }
+  ],
+  "components.PlayerSkin.cfedc14fa3a3b9e90204c250d64941d1": [
+    {
+      "type": 0,
+      "value": "Качество"
+    }
+  ],
+  "components.PlayerSkin.custom-id.keep-compound-credits": [
+    {
+      "type": 0,
+      "value": "Смотреть титры"
+    }
+  ],
+  "components.PlayerSkin.custom-id.quality-option-name": [
+    {
+      "type": 0,
+      "value": "Качество"
+    }
+  ],
+  "components.PlayerSkin.custom-id.rate-option-name": [
+    {
+      "type": 0,
+      "value": "Скорость"
+    }
+  ],
+  "components.PlayerSkin.custom-id.skip-intro": [
+    {
+      "type": 0,
+      "value": "Пропустить"
+    }
+  ],
+  "components.PlayerSkin.custom-id.skip-recap": [
+    {
+      "type": 0,
+      "value": "Пропустить"
+    }
+  ],
+  "components.PlayerSkin.custom-id.subtitles-size-option-name": [
+    {
+      "type": 0,
+      "value": "Размер субтитров"
+    }
+  ],
+  "components.PlayerSkin.d9952e47f78cb74b3a0b41dfecf0b77a": [
+    {
+      "type": 0,
+      "value": "Невозможно выключить по требованию правообладателей"
+    }
+  ],
+  "components.PlayerSkin.db04b2c6b8b2acf46e1f36577ccd5f24": [
+    {
+      "type": 0,
+      "value": "Ужасно"
+    }
+  ],
+  "components.PlayerSkin.e3f98d0d0a7a4a28e589d7e6f9dad117": [
+    {
+      "type": 0,
+      "value": "Отправить на устройство"
+    }
+  ],
+  "components.PlayerSkin.e4f48a27590523200e89a84b550dff42": [
+    {
+      "type": 0,
+      "value": "Стерео"
+    }
+  ],
+  "components.PlayerSkin.ff85aee93c947bdd5bd6258927d940d4": [
+    {
+      "type": 0,
+      "value": "Другое"
+    }
+  ],
+  "components.ProfileMenu.0f05cf8ab6a3e72c0838a392e76f3733": [
+    {
+      "type": 0,
+      "value": "Выйти"
+    }
+  ],
+  "components.ProfileMenu.1706282c5244c8e988f76c5eb939b754": [
+    {
+      "type": 0,
+      "value": "Редактировать"
+    }
+  ],
+  "components.ProfileMenu.18dbbabac2e45e815d712ac7cda52f6c": [
+    {
+      "type": 0,
+      "value": "Добавить детский профиль"
+    }
+  ],
+  "components.ProfileMenu.228673ab750eb6dbc6f0536ea7f21aa6": [
+    {
+      "type": 1,
+      "value": "ageRestrictionGroup"
+    },
+    {
+      "type": 0,
+      "value": "+"
+    }
+  ],
+  "components.ProfileMenu.2d20f80aa3c2d84b32dc8a66d112e9b5": [
+    {
+      "type": 0,
+      "value": "Фильмы"
+    }
+  ],
+  "components.ProfileMenu.5253f2060d488a77863dff155777b06e": [
+    {
+      "type": 0,
+      "value": "Добавить аккаунт"
+    }
+  ],
+  "components.ProfileMenu.5db5da04980563b749d478029b283442": [
+    {
+      "type": 0,
+      "value": "Баллы Плюса"
+    }
+  ],
+  "components.ProfileMenu.63a753751e8899416d62b1d1bbb61720": [
+    {
+      "type": 0,
+      "value": "Войти"
+    }
+  ],
+  "components.ProfileMenu.73c6bbf3f469e408ea724777f1ccb754": [
+    {
+      "type": 0,
+      "value": "Меню профиля"
+    }
+  ],
+  "components.ProfileMenu.7a96328ae60111e3a6b74f7a45db85d9": [
+    {
+      "type": 0,
+      "value": "История просмотра"
+    }
+  ],
+  "components.ProfileMenu.7b17bfed74f92f8ad7526327d2d3d0d5": [
+    {
+      "type": 0,
+      "value": "Другие пользователи"
+    }
+  ],
+  "components.ProfileMenu.7e264844e4fc7ea0a5ea239f44bc9736": [
+    {
+      "type": 0,
+      "value": "Сообщения"
+    }
+  ],
+  "components.ProfileMenu.86652ada65b0863ade3ec1bc3bb374f8": [
+    {
+      "type": 0,
+      "value": "Выйти из раздела"
+    }
+  ],
+  "components.ProfileMenu.8aec3ebca6e05b5873f3a471f90cfce7": [
+    {
+      "type": 0,
+      "value": "Формальности"
+    }
+  ],
+  "components.ProfileMenu.8eaa83fb519ca519174d5e2050624100": [
+    {
+      "type": 0,
+      "value": "Оценки"
+    }
+  ],
+  "components.ProfileMenu.995986409b36158d6e4a4434156f6daf": [
+    {
+      "type": 0,
+      "value": "Возрастное ограничение контента"
+    }
+  ],
+  "components.ProfileMenu.a249901680f9de9a0c7eed9cf0ddf10b": [
+    {
+      "type": 0,
+      "value": "Друзья"
+    }
+  ],
+  "components.ProfileMenu.a79180363c0f42b3a13d3b703acd0fdd": [
+    {
+      "type": 0,
+      "value": "Активация промокода"
+    }
+  ],
+  "components.ProfileMenu.b65b6b80dbead428c0fd97306e3b48f7": [
+    {
+      "type": 0,
+      "value": "Другие аккаунты"
+    }
+  ],
+  "components.ProfileMenu.bd5fbdc19235504fe0dcfdbbc6f9fa49": [
+    {
+      "type": 0,
+      "value": "Чат с поддержкой"
+    }
+  ],
+  "components.ProfileMenu.c919d65bd95698af8f15fa8133bf490d": [
+    {
+      "type": 0,
+      "value": "Настройки"
+    }
+  ],
+  "components.ProfileMenu.custom-id.avatar-button-child": [
+    {
+      "type": 0,
+      "value": "Меню профиля"
+    }
+  ],
+  "components.ProfileMenu.custom-id.other-accounts": [
+    {
+      "type": 0,
+      "value": "Другие аккаунты"
+    }
+  ],
+  "components.ProfileMenu.d7e386a6ea331e08f76c96ef4cd25ede": [
+    {
+      "type": 0,
+      "value": "Управление подпиской"
+    }
+  ],
+  "components.ProfileMenu.d9e1040a60fe9e91812c9f8ff2ed15bc": [
+    {
+      "type": 0,
+      "value": "Просмотр запрещен"
+    }
+  ],
+  "components.ProfileMenu.e3cfe19bb44b97ef2c5e07bf8509147c": [
+    {
+      "type": 0,
+      "value": "Персоны"
+    }
+  ],
+  "components.ProfilesPage.05744bedee16b9dc56ba8c442ba1aea9": [
+    {
+      "type": 0,
+      "value": "Кто будет смотреть?"
+    }
+  ],
+  "components.ProfilesPage.138ec9752a1db8a839ba4a8b88fc1abd": [
+    {
+      "type": 0,
+      "value": "Вернуть возможность просмотра можно в мобильном приложении"
+    }
+  ],
+  "components.ProfilesPage.34e1413d659cf910494586bf9fbc727e": [
+    {
+      "type": 0,
+      "value": "Готово"
+    }
+  ],
+  "components.ProfilesPage.d9e1040a60fe9e91812c9f8ff2ed15bc": [
+    {
+      "type": 0,
+      "value": "Просмотр запрещен"
+    }
+  ],
+  "components.ProfilesPage.e5d86005e20d7611feb0f5778c6f6866": [
+    {
+      "type": 0,
+      "value": "Редактировать детский профиль"
+    }
+  ],
+  "components.ProfilesPage.ed4505c7214fbc9f7850ec7646aa5c63": [
+    {
+      "type": 0,
+      "value": "Больше не спрашивать"
+    }
+  ],
+  "components.Progress.163a24bcd9a0f2db0d358f77dbe5edf6": [
+    {
+      "type": 0,
+      "value": "ещё немного"
+    }
+  ],
+  "components.Progress.abe6c275c65988f9bf0a7a2e1ef9f989": [
+    {
+      "type": 0,
+      "value": "ещё "
+    },
+    {
+      "type": 1,
+      "value": "remainingTimeText"
+    }
+  ],
+  "components.Progress.d699e6685d2f2bdb024b3319ddc9ed6c": [
+    {
+      "type": 0,
+      "value": "Общая длительность "
+    },
+    {
+      "type": 1,
+      "value": "duration"
+    }
+  ],
+  "components.PromoBlock.63dc1125a3e9bbf90621e50a8503d68c": [
+    {
+      "type": 0,
+      "value": "Прямой эфир"
+    }
+  ],
+  "components.PromoBlock.f41a03a4b42fab345425c6baa0f6b2e8": [
+    {
+      "type": 0,
+      "value": "Смотреть матч"
+    }
+  ],
+  "components.PurchaseBadge.31335f36094ca108005141f6f68aa970": [
+    {
+      "type": 0,
+      "value": "от "
+    },
+    {
+      "type": 1,
+      "value": "minimumPrice"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "currencySymbol"
+    }
+  ],
+  "components.PurchaseBadge.5bf5c1d5c47fd0d047c1542c32abd343": [
+    {
+      "type": 0,
+      "value": "Подписка"
+    }
+  ],
+  "components.PurchaseBadge.7f164d12155a14bdb34181b6f8c41f3f": [
+    {
+      "type": 0,
+      "value": "от"
+    }
+  ],
+  "components.PurchaseBadge.d7c16cec0a559220916286d356f995f6": [
+    {
+      "type": 0,
+      "value": "Смотреть"
+    }
+  ],
+  "components.PurchaseBadge.eb845a1d97d0bb3c2c9887f67b215e8b": [
+    {
+      "type": 0,
+      "value": "₽"
+    }
+  ],
+  "components.PurchaseList.24e2a79f3a2a9df96f907fb1579262fc": [
+    {
+      "type": 0,
+      "value": "Последние 3 месяца"
+    }
+  ],
+  "components.PurchaseList.5bed4e9c83c28d66ade0fa0db9743a31": [
+    {
+      "type": 0,
+      "value": "Последний год"
+    }
+  ],
+  "components.PurchaseList.8e704d2963eec207c74be8ceefb6c738": [
+    {
+      "type": 0,
+      "value": "Последние 6 месяцев"
+    }
+  ],
+  "components.PurchaseList.9c496583b1ccd43a80b369d8d45e0d60": [
+    {
+      "type": 0,
+      "value": "Покупки"
+    }
+  ],
+  "components.PurchaseList.e1b6eeefddaf36b10bcf76e1f1f65500": [
+    {
+      "type": 0,
+      "value": "Нет купленных фильмов"
+    }
+  ],
+  "components.PurchaseList.f05123c7e2dcf494e51d7e29f0114966": [
+    {
+      "type": 0,
+      "value": "В этом месяце"
+    }
+  ],
+  "components.Questions.921bf95cfd7bc6657d291cb3f04aeb14": [
+    {
+      "type": 0,
+      "value": "Ответы на вопросы"
+    }
+  ],
+  "components.RefreshButton.dbe5444a9a2c431188f3f130d668c274": [
+    {
+      "type": 0,
+      "value": "Обновить"
+    }
+  ],
+  "components.SelectionListItems.7a96328ae60111e3a6b74f7a45db85d9": [
+    {
+      "type": 0,
+      "value": "История просмотра"
+    }
+  ],
+  "components.SelectionListItems.81ba623fd7b8bafc49b45f8254a80b28": [
+    {
+      "type": 0,
+      "value": "История пока пустая"
+    }
+  ],
+  "components.SelectionListItems.8c0dd7f7903e193a9e7a28138717924f": [
+    {
+      "type": 0,
+      "value": "Продолжить просмотр"
+    }
+  ],
+  "components.SelectionListItems.b0c3c9bec5d2799f28db5edb67091503": [
+    {
+      "type": 0,
+      "value": "Показать все"
+    }
+  ],
+  "components.SelectionListItems.fcd9871ce5608ec35d8d823a9a8c2bce": [
+    {
+      "type": 0,
+      "value": "топ за год"
+    }
+  ],
+  "components.SeriesNavigator.3064211637c6a1777fdd286646f044ba": [
+    {
+      "type": 0,
+      "value": "Серии"
+    }
+  ],
+  "components.SeriesNavigator.8312ebf3ef74393da26bfa125250eafe": [
+    {
+      "type": 0,
+      "value": "Другие серии"
+    }
+  ],
+  "components.SeriesNavigator.ac1d3cc6e140dd5b403de84481ca9f51": [
+    {
+      "type": 0,
+      "value": "Другие сезоны"
+    }
+  ],
+  "components.SeriesNavigator.e53f7b6e65c6377e645a1e6900bb085c": [
+    {
+      "type": 0,
+      "value": "Сезон"
+    }
+  ],
+  "components.SessionStop.9f08db5f73dd24be851f49ed80168a48": [
+    {
+      "type": 0,
+      "value": "Остановили просмотр, так как долгое время не было активност"
+    }
+  ],
+  "components.SessionStop.cb29c393c2c6322ddf2325f663c6282a": [
+    {
+      "type": 0,
+      "value": "Вернуться в эфир"
+    }
+  ],
+  "components.SmartTvCodeValid.3bbeb580c7fbcda803aba7171adefedc": [
+    {
+      "type": 0,
+      "value": "Ваш телевизор успешно подключён. Теперь можно вернуться к телевизору и смотреть фильмы и сериалы"
+    }
+  ],
+  "components.SmartTvCodeValid.50fea893059c3ff4a12a784ce2114ccd": [
+    {
+      "type": 0,
+      "value": "Всё готово!"
+    }
+  ],
+  "components.SuggestSearch.05fc59c56283e610714745836fe86864": [
+    {
+      "type": 0,
+      "value": "Все результаты"
+    }
+  ],
+  "components.SuggestSearch.13a57b91600460c8f88f49e31ce0bd27": [
+    {
+      "type": 0,
+      "value": "Ищем в подписке то, что подходит"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "по возрасту"
+    }
+  ],
+  "components.SuggestSearch.3e2853086548b7bfe7ea7560d453c308": [
+    {
+      "type": 0,
+      "value": "Для просмотра ничего не найдено"
+    }
+  ],
+  "components.SuggestSearch.7b5239d0ca63d9a64a4a3743b5ab1652": [
+    {
+      "type": 0,
+      "value": "Возможно, это кино для детей постарше"
+    }
+  ],
+  "components.SuggestSearch.7db19ffde7618ec865be0a9716555e4a": [
+    {
+      "type": 0,
+      "value": "Онлайн-кинотеатр"
+    }
+  ],
+  "components.SuggestSearch.837ad9df00a5e8dfeca4c761c6086a0a": [
+    {
+      "type": 0,
+      "value": "Очистить историю"
+    }
+  ],
+  "components.SuggestSearch.954e45598de1a025540c1bacca4be5ce": [
+    {
+      "type": 0,
+      "value": "Возможно, вы искали"
+    }
+  ],
+  "components.SuggestSearch.b0c3c9bec5d2799f28db5edb67091503": [
+    {
+      "type": 0,
+      "value": "Показать все"
+    }
+  ],
+  "components.SuggestSearch.d1e77da24e47a9b0fa9498573e673b91": [
+    {
+      "type": 0,
+      "value": "Ничего не наш… лось"
+    }
+  ],
+  "components.SuggestSearch.dda4e0015eb966afe98564ef9e2457c7": [
+    {
+      "type": 0,
+      "value": "По вашему запросу ничего не найдено"
+    }
+  ],
+  "components.SuggestSearch.e13deabada1cd112c32fcd798434d9fd": [
+    {
+      "type": 0,
+      "value": "Фильмы и сериалы"
+    }
+  ],
+  "components.TvDevices.1cfb0595aca7b994b78c501f9d3202c5": [
+    {
+      "type": 0,
+      "value": "На телевизоре"
+    }
+  ],
+  "components.TvDevicesMenu.b278285aeff5cffad70c9838b3566f5d": [
+    {
+      "type": 0,
+      "value": "Отключить"
+    }
+  ],
+  "components.TvDevicesMenu.bfb502b8d10dd5b12401577368e618ea": [
+    {
+      "type": 0,
+      "value": "Телевизор"
+    }
+  ],
+  "components.WatchNextScreen.08fbb1e7815352ef000695a385f13254": [
+    {
+      "type": 0,
+      "value": "Смотреть фильм"
+    }
+  ],
+  "components.WatchNextScreen.711942840a057b284eea1aa961700091": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "components.WatchNextScreen.76ccc7f3ac22d5ff2d1ce9eb3abb4862": [
+    {
+      "type": 0,
+      "value": "Что посмотреть \n в следующий раз? \n Собрали трейлеры"
+    }
+  ],
+  "components.WatchNextScreen.7d740dfa92a3aa093e137e8459d78501": [
+    {
+      "type": 0,
+      "value": "'Смотреть титры"
+    }
+  ],
+  "components.WatchNextScreen.96f19371191187f6a5d099ffff58cff9": [
+    {
+      "type": 0,
+      "value": "Похожие фильмы и сериалы"
+    }
+  ],
+  "components.WatchNextScreen.987b33c664dce148f1d17f6eb9ab3e79": [
+    {
+      "type": 0,
+      "value": "Отмена"
+    }
+  ],
+  "components.WatchNextScreen.995e45d1fc94db4f5eaaf0f1f50f1a8c": [
+    {
+      "type": 0,
+      "value": "Смотреть сериал"
+    }
+  ],
+  "components.WatchNextScreen.9975e1a3f5eb7b80e107543596a81db2": [
+    {
+      "type": 0,
+      "value": "Смотрите дальше"
+    }
+  ],
+  "components.WatchNextScreen.c1a13db10bc30adc58b0f26bf51c1465": [
+    {
+      "type": 0,
+      "value": "Удалить оценку"
+    }
+  ],
+  "components.WatchNextScreen.c55f49ffa9a1742318b750752bfd6372": [
+    {
+      "type": 0,
+      "value": "Смотреть титры"
+    }
+  ],
+  "components.WatchNextScreen.custom-id.favorite-button-text": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "components.WatchNextScreen.custom-id.watch-next-button-text": [
+    {
+      "type": 0,
+      "value": "Смотрите дальше"
+    }
+  ],
+  "components.WatchNextScreen.d7c16cec0a559220916286d356f995f6": [
+    {
+      "type": 0,
+      "value": "Смотреть"
+    }
+  ],
+  "components.WatchNextScreen.e25282ccee35b3006ab160c73a133cc2": [
+    {
+      "type": 0,
+      "value": "Смотреть сейчас"
+    }
+  ],
+  "components.WatchNextScreen.f1fbb14ec2acc7dd1605eb926b9ebeee": [
+    {
+      "type": 0,
+      "value": "Моя оценка"
+    }
+  ],
+  "containers.ChannelCardModal.14e464462042a716229e6a59806d78a8": [
+    {
+      "type": 0,
+      "value": "Смотреть канал"
+    }
+  ],
+  "containers.ChannelCardModal.244313c8e31e8a37274bbdb76d55350a": [
+    {
+      "type": 0,
+      "value": "Возобновить"
+    }
+  ],
+  "containers.ChannelCardModal.4e018a8cbb8aa0e65e46cd73177bcb82": [
+    {
+      "type": 0,
+      "value": "Вы не платите за опцию, когда она приостановлена"
+    }
+  ],
+  "containers.ChannelCardModal.5e293b5b9b5fe32bb7c4784860734c4a": [
+    {
+      "type": 0,
+      "value": "Этот и более 100 каналов доступны по подписке"
+    }
+  ],
+  "containers.ChannelCardModal.92726979d3f1ee9c72991c2cab50467f": [
+    {
+      "type": 0,
+      "value": "По подписке "
+    },
+    {
+      "type": 1,
+      "value": "offerTitle"
+    }
+  ],
+  "containers.ChannelCardModal.c5918617a3230f4d8e862271b305b9f8": [
+    {
+      "type": 0,
+      "value": "Этот канал доступен с опцией "
+    },
+    {
+      "type": 1,
+      "value": "offerTitle"
+    }
+  ],
+  "containers.ChannelCardModal.custom-id.button-text-modal": [
+    {
+      "type": 0,
+      "value": "Смотреть канал"
+    }
+  ],
+  "containers.ChannelCardModal.e5f045b555cbf06f14631f9bd31b338c": [
+    {
+      "type": 0,
+      "value": "Опция «Матч! Премьер» приостановлена до старта сезона РПЛ"
+    }
+  ],
+  "containers.ContentActions.08fbb1e7815352ef000695a385f13254": [
+    {
+      "type": 0,
+      "value": "Смотреть фильм"
+    }
+  ],
+  "containers.ContentActions.2323ce122f9f1b5f6b791d3e534bc3a1": [
+    {
+      "type": 0,
+      "value": "Дождитесь завершения оплаты..."
+    }
+  ],
+  "containers.ContentActions.32c073cc00dc415e4fab8e000db9503e": [
+    {
+      "type": 0,
+      "value": "Купить и смотреть"
+    }
+  ],
+  "containers.ContentActions.67dad910dd1c0b8a3dda6bfc7bc5edd0": [
+    {
+      "type": 0,
+      "value": "По подписке "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    }
+  ],
+  "containers.ContentActions.8c0dd7f7903e193a9e7a28138717924f": [
+    {
+      "type": 0,
+      "value": "Продолжить просмотр"
+    }
+  ],
+  "containers.ContentActions.995e45d1fc94db4f5eaaf0f1f50f1a8c": [
+    {
+      "type": 0,
+      "value": "Смотреть сериал"
+    }
+  ],
+  "containers.ContentActions.cb59c9a74bb3d26fde7dc630bc1429dc": [
+    {
+      "type": 1,
+      "value": "season"
+    },
+    {
+      "type": 0,
+      "value": " сезон, "
+    },
+    {
+      "type": 1,
+      "value": "episode"
+    },
+    {
+      "type": 0,
+      "value": " серия"
+    }
+  ],
+  "containers.ContentActions.cf4f112f0fb4801af72f040e2e38ba97": [
+    {
+      "type": 0,
+      "value": "Арендовать и смотреть"
+    }
+  ],
+  "containers.ContentActions.d7c16cec0a559220916286d356f995f6": [
+    {
+      "type": 0,
+      "value": "Смотреть"
+    }
+  ],
+  "containers.ContentPlayer.2085cab0e1f7559c53803c4d5fc3d8f1": [
+    {
+      "type": 0,
+      "value": "Пропустить повтор"
+    }
+  ],
+  "containers.ContentPlayer.cd9e558cf1a56b8092564298fcc2c180": [
+    {
+      "type": 0,
+      "value": "Пропустить заставку"
+    }
+  ],
+  "containers.ContentPlayer.fa0b3f8e24be1c06fffff2fb4cf59cf6": [
+    {
+      "type": 0,
+      "value": "Пропустить титры"
+    }
+  ],
+  "containers.CoverChildTouch.50cc3526104e30fcff6861c98915a605": [
+    {
+      "type": 0,
+      "value": "Плюс"
+    }
+  ],
+  "containers.CoverChildTouch.ff3055c05ce9a7c800a48515856fc8d2": [
+    {
+      "type": 0,
+      "value": "Вот подписка "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    },
+    {
+      "type": 1,
+      "value": "offerText"
+    }
+  ],
+  "containers.Header.08bb69e2bd60359602af365d6ff034a3": [
+    {
+      "type": 0,
+      "value": "Спорт"
+    }
+  ],
+  "containers.Header.7652ce26cf3aa6488af344047286cd53": [
+    {
+      "type": 0,
+      "value": "Подписки"
+    }
+  ],
+  "containers.OfferButton.88128b6e1e3b2d05f22e668a11ce4d32": [
+    {
+      "type": 0,
+      "value": "Купить за"
+    }
+  ],
+  "containers.OfferButton.e3fc8a095a21a926eff5baed11afda8a": [
+    {
+      "type": 0,
+      "value": "Купить от"
+    }
+  ],
+  "containers.OnBoardingMainSection.40bc28fad4bf87dc11d58e47443bbaa4": [
+    {
+      "type": 0,
+      "value": "Отменяйте в любой момент, напишем за 3 дня до первого списания"
+    }
+  ],
+  "containers.OnBoardingMainSection.77a986a9e95c897a4657d6dafd3633bd": [
+    {
+      "type": 0,
+      "value": "Плюс с "
+    },
+    {
+      "type": 1,
+      "value": "subscription"
+    }
+  ],
+  "containers.OnBoardingMainSection.8a0ee6bf52685f78f8a0784f960ef9de": [
+    {
+      "type": 0,
+      "value": "Фильмы и сериалы по подписке "
+    },
+    {
+      "type": 1,
+      "value": "subscription"
+    }
+  ],
+  "containers.OnBoardingMainSection.8f905989e83af7ab9a50a483c82eafbe": [
+    {
+      "type": 0,
+      "value": "Фильмы и сериалы, музыка, а ещё тысячи книг по подписке "
+    },
+    {
+      "type": 1,
+      "value": "subscription"
+    }
+  ],
+  "containers.OnBoardingSubscriptionButton.0b2bf53a8c13e8539113b3274a7ed30a": [
+    {
+      "type": 0,
+      "value": "Оформить подписку"
+    }
+  ],
+  "containers.OnBoardingSubscriptionButton.39af715e6260eac3e2214c697c7d5645": [
+    {
+      "type": 0,
+      "value": "Оформить за "
+    },
+    {
+      "type": 1,
+      "value": "offerText"
+    }
+  ],
+  "containers.OnBoardingSubscriptionButton.4921a9718181e0ba78b25d9b314b14d5": [
+    {
+      "type": 0,
+      "value": "Оформить"
+    }
+  ],
+  "containers.OnBoardingSubscriptionButton.7f55a03c6098ba7165097b46a5a55579": [
+    {
+      "type": 0,
+      "value": "Попробовать бесплатно"
+    }
+  ],
+  "containers.OnBoardingSubscriptionButton.c9142826bc00f29fb99d08b98da1ec63": [
+    {
+      "type": 0,
+      "value": "Попробовать"
+    }
+  ],
+  "containers.OnBoardingSubscriptionButton.fdf26ac67455d9803d6012da51747fd8": [
+    {
+      "type": 0,
+      "value": "Попробовать "
+    },
+    {
+      "type": 1,
+      "value": "offerText"
+    }
+  ],
+  "containers.OverviewContinueSnippet.f0cec1ed305b3081e59b58700139158c": [
+    {
+      "type": 1,
+      "value": "seasonNumber"
+    },
+    {
+      "type": 0,
+      "value": " сезон"
+    }
+  ],
+  "containers.OverviewTitle.7bd3224cc09e034190cc8e1e9f99f370": [
+    {
+      "type": 0,
+      "value": "Смотреть "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    }
+  ],
+  "containers.OverviewTitle.a8264f1b896a141d7a3c20ea640c50b8": [
+    {
+      "type": 0,
+      "value": "Смотреть сериал "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "seasonCount"
+    },
+    {
+      "type": 0,
+      "value": " сезон"
+    }
+  ],
+  "containers.OverviewTitle.fe64c31d5e97504e45c0962c7406c381": [
+    {
+      "type": 0,
+      "value": "Смотреть фильм "
+    },
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "productionYear"
+    }
+  ],
+  "containers.PlayerSkin.e2816cbd50584efd7742e0b586e24e00": [
+    {
+      "type": 1,
+      "value": "seasonNumber"
+    },
+    {
+      "type": 0,
+      "value": " сезон, "
+    },
+    {
+      "type": 1,
+      "value": "number"
+    },
+    {
+      "type": 0,
+      "value": " серия."
+    },
+    {
+      "type": 1,
+      "value": "finalTitle"
+    }
+  ],
+  "containers.PriceBlock.1c123003ec98f1b0393f265a613531e8": [
+    {
+      "type": 0,
+      "value": "Промокод "
+    },
+    {
+      "type": 1,
+      "value": "value"
+    },
+    {
+      "type": 0,
+      "value": " применен"
+    }
+  ],
+  "containers.PriceBlock.7f164d12155a14bdb34181b6f8c41f3f": [
+    {
+      "type": 0,
+      "value": "от"
+    }
+  ],
+  "containers.PurchaseCard.77ebf964d2e63db8072b147599584d71": [
+    {
+      "type": 0,
+      "value": "Фильм недоступен для просмотра"
+    }
+  ],
+  "containers.PurchaseCard.e6845536f8da736e4d51e3ba9f2140e5": [
+    {
+      "type": 1,
+      "value": "time"
+    },
+    {
+      "type": 0,
+      "value": ", чтобы закончить просмотр"
+    }
+  ],
+  "containers.PurchaseCard.ee8996752021ef54ff56e7b7a7bda377": [
+    {
+      "type": 0,
+      "value": "Время аренды истекло"
+    }
+  ],
+  "containers.Questions.04eb54c67b45317a03709ce6036f0e89": [
+    {
+      "type": 0,
+      "value": "Пока только в России, Беларуси, Казахстане, Узбекистане, Таджикистане, Грузии, Армении, Кыргызстане, Молдове, Монголии и Азербайджане. Но мы работаем над этим."
+    }
+  ],
+  "containers.Questions.3780488868585cbdcddb3296427a82c3": [
+    {
+      "type": 0,
+      "value": "В каких странах работает Кинопоиск?"
+    }
+  ],
+  "containers.Questions.3ff7b97de57e627bae59b261b5765994": [
+    {
+      "type": 0,
+      "value": "Как работает пробный период и когда списываются деньги?"
+    }
+  ],
+  "containers.Questions.50174bccf6cdc4bbefc40d129279b8fc": [
+    {
+      "type": 0,
+      "value": "У меня есть промокод. Как его использовать?"
+    }
+  ],
+  "containers.Questions.6b096f1ade56b2ced594bb33fbba9a71": [
+    {
+      "type": 0,
+      "value": "Код на бесплатные дни подписки можно "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "ввести по ссылке"
+        }
+      ],
+      "type": 8,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": ". Чтобы получить скидку на фильм из раздела «Магазин», введите код на экране оплаты."
+    }
+  ],
+  "containers.Questions.ce93a92e5654d27e8939fa165aa22b9f": [
+    {
+      "type": 0,
+      "value": "Смотрите "
+    },
+    {
+      "type": 1,
+      "value": "text"
+    },
+    {
+      "type": 0,
+      "value": ". Вы сможете отписаться в любой момент и ничего не платить. Раз в месяц подписка продлевается автоматически."
+    }
+  ],
+  "containers.SelectionListItems.2e9afdb9b082756eda525d5ca1d226f6": [
+    {
+      "options": {
+        "0": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Покупок пока нет"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Покупка"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Покупки"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "itemCount"
+    }
+  ],
+  "containers.SelectionListItems.711942840a057b284eea1aa961700091": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "containers.SelectionListItems.9c496583b1ccd43a80b369d8d45e0d60": [
+    {
+      "type": 0,
+      "value": "Покупки"
+    }
+  ],
+  "containers.SelectionListItems.d604d836d774e90ee1e1e193a6cc895e": [
+    {
+      "type": 0,
+      "value": "Покупок пока нет"
+    }
+  ],
+  "containers.SupportButton.611e708572180c9a49fbcb9f6366105d": [
+    {
+      "type": 0,
+      "value": "Мне нужна помощь"
+    }
+  ],
+  "containers.waiting-badge.b992e316fb8534c3ea4e0463b925bc3f": [
+    {
+      "type": 0,
+      "value": "Аренда истекла"
+    }
+  ],
+  "core.meta.ui.hd-seo-head.1237c0cfdcf1754e89fc2e63ae504d32": [
+    {
+      "type": 0,
+      "value": "Кинопоиск"
+    }
+  ],
+  "features.channel-player.1e65f93302324035b2cedcdfe69517e4": [
+    {
+      "type": 0,
+      "value": "Все серии сериала"
+    }
+  ],
+  "features.channel-player.3cc157c25a00da77328fb905c06b76d0": [
+    {
+      "type": 0,
+      "value": "О сериале"
+    }
+  ],
+  "features.channel-player.5dce33e0df0df52626404d0696b2c4fb": [
+    {
+      "type": 0,
+      "value": "О фильме"
+    }
+  ],
+  "features.channel-player.9f90574c741469a7a2cebb7eead0da6f": [
+    {
+      "type": 0,
+      "value": "Смотреть сначала"
+    }
+  ],
+  "features.channel-program.5060a85a935c944fa8560aa26734fe78": [
+    {
+      "type": 0,
+      "value": "При загрузке телепрограммы произошла ошибка, попробуйте снова"
+    }
+  ],
+  "features.channel-program.61d4027f10fce52b6a13d38754697b27": [
+    {
+      "type": 0,
+      "value": "Вчера"
+    }
+  ],
+  "features.channel-program.96269cac1c3515dd7ea0b617074d804d": [
+    {
+      "type": 0,
+      "value": "Сегодня"
+    }
+  ],
+  "features.channel-program.afe1e0c9b82decdf05dd2bc17fdc6911": [
+    {
+      "type": 0,
+      "value": "Идёт загрузка"
+    }
+  ],
+  "features.channel-program.b48e87cb3dcd3f0f40111193ee46a99e": [
+    {
+      "type": 0,
+      "value": "Телепрограммы для этого канала у нас пока нет"
+    }
+  ],
+  "features.channel-program.d1023419980cdc37471e7864253fe3ec": [
+    {
+      "type": 0,
+      "value": "Завтра"
+    }
+  ],
+  "features.channel-program.ee00fac74f730c1218eba047f441f8c0": [
+    {
+      "type": 0,
+      "value": "Перезагрузить"
+    }
+  ],
+  "features.devices-choice-onboarding.00b44bfb8e880a5b224b0dbe6a814f93": [
+    {
+      "type": 0,
+      "value": "Смотрите Кинопоиск\nна большом экране"
+    }
+  ],
+  "features.devices-choice-onboarding.0357834404c9083616fe113daa75cafa": [
+    {
+      "type": 0,
+      "value": "На каких устройствах "
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "вы будете смотреть Кинопоиск?"
+    }
+  ],
+  "features.devices-choice-onboarding.0d88ec7baa0b7632f909e220c0750f09": [
+    {
+      "type": 0,
+      "value": "Отлично"
+    }
+  ],
+  "features.devices-choice-onboarding.12a13eef94ae0b01df92199d33927de1": [
+    {
+      "type": 0,
+      "value": "Отсканируйте QR-код\nдля установки приложения"
+    }
+  ],
+  "features.devices-choice-onboarding.17060f55016ff43e1bdcd11f6b6998b4": [
+    {
+      "type": 0,
+      "value": "Телевизоры или приставки"
+    }
+  ],
+  "features.devices-choice-onboarding.1db1065a30cff216b2b3201a289096a6": [
+    {
+      "type": 0,
+      "value": "Дальше"
+    }
+  ],
+  "features.devices-choice-onboarding.2b25c446e8c24bdf3dae95a577391f95": [
+    {
+      "type": 0,
+      "value": "Компьютеры или ноутбуки"
+    }
+  ],
+  "features.devices-choice-onboarding.34e1413d659cf910494586bf9fbc727e": [
+    {
+      "type": 0,
+      "value": "Готово"
+    }
+  ],
+  "features.devices-choice-onboarding.35c99ad2cbb07fd5d3aa95c4990b29d6": [
+    {
+      "type": 0,
+      "value": "Выберите модель телевизора"
+    }
+  ],
+  "features.devices-choice-onboarding.512558a21121394c45dfcb18f335292a": [
+    {
+      "type": 0,
+      "value": "Выберите устройства"
+    }
+  ],
+  "features.devices-choice-onboarding.660b3295ad49dc365ca15a65b3ef45da": [
+    {
+      "type": 0,
+      "value": "Не сейчас"
+    }
+  ],
+  "features.devices-choice-onboarding.6aea02a24b700bbd7fe5bcb58fd5ad58": [
+    {
+      "type": 0,
+      "value": "По вашей подписке"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "уже можно смотреть Кинопоиск"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "на всех этих устройствах"
+    }
+  ],
+  "features.devices-choice-onboarding.8c03e6fa768dc87fd09ce9202139ae1c": [
+    {
+      "type": 0,
+      "value": "Какое у вас устройство?"
+    }
+  ],
+  "features.devices-choice-onboarding.custom-id.install-devices": [
+    {
+      "type": 0,
+      "value": "Телефоны или планшеты"
+    }
+  ],
+  "features.devices-choice-onboarding.custom-id.install-tv-devices": [
+    {
+      "type": 0,
+      "value": "Телевизоры или приставки"
+    }
+  ],
+  "features.devices-choice-onboarding.custom-id.tv-devices-next-button": [
+    {
+      "type": 0,
+      "value": "Готово"
+    }
+  ],
+  "features.devices-choice-onboarding.e37268718a9bdeb06b4edb7e0efa2d36": [
+    {
+      "type": 0,
+      "value": "Телефоны или планшеты"
+    }
+  ],
+  "features.devices-choice-onboarding.f4d3de8e2753186dbe8482d45955a60b": [
+    {
+      "type": 0,
+      "value": "Как установить"
+    }
+  ],
+  "features.episode-player.b0d49f3657afc3e9fa3e876c454e066c": [
+    {
+      "type": 1,
+      "value": "seasonNumber"
+    },
+    {
+      "type": 0,
+      "value": " сезон, "
+    },
+    {
+      "type": 1,
+      "value": "seriesNumber"
+    },
+    {
+      "type": 0,
+      "value": " серия. "
+    },
+    {
+      "type": 1,
+      "value": "finalTitle"
+    }
+  ],
+  "features.episode-player.cb90fe5968426117327aa2796b05681c": [
+    {
+      "type": 1,
+      "value": "seasonNumber"
+    },
+    {
+      "type": 0,
+      "value": " сезон, "
+    },
+    {
+      "type": 1,
+      "value": "seriesNumber"
+    },
+    {
+      "type": 0,
+      "value": " серия."
+    }
+  ],
+  "features.gift.936585318c9868c1cec31c87f6c48a0a": [
+    {
+      "type": 0,
+      "value": "Фильмы, сериалы, музыка и подкасты без рекламы, а также другие преимущества в сервисах Яндекса по промокоду "
+    },
+    {
+      "type": 1,
+      "value": "promocode"
+    }
+  ],
+  "features.gift.f19152c14b498f4eb4af50165033cbfb": [
+    {
+      "type": 0,
+      "value": "Активация промокода "
+    },
+    {
+      "type": 1,
+      "value": "promocode"
+    },
+    {
+      "type": 0,
+      "value": " - Кинопоиск"
+    }
+  ],
+  "features.grace.121497ec049276f720660c343be18bd1": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — мы не смогли списать деньги с вашей карты"
+    }
+  ],
+  "features.grace.2d4b9c42158dfbf3130aa17fc171acb3": [
+    {
+      "type": 0,
+      "value": "Привязать карту"
+    }
+  ],
+  "features.grace.2dc6b2797c41b1b715c1e09427e6b590": [
+    {
+      "type": 0,
+      "value": "Оплатить позже"
+    }
+  ],
+  "features.grace.3780f34b79b6cbf3a9842dae18b699fb": [
+    {
+      "type": 0,
+      "value": "Оплата прошла успешно!"
+    }
+  ],
+  "features.grace.516be78010d9639f1ef64e478b13e9eb": [
+    {
+      "type": 0,
+      "value": "Привязать новую карту"
+    }
+  ],
+  "features.grace.60a52bbe9c89a430b1a0a772c20c861d": [
+    {
+      "type": 0,
+      "value": "Попробовать снова"
+    }
+  ],
+  "features.grace.92203184463d5a6b9dc4ea237c5f62bb": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — у вас нет привязанных карт"
+    }
+  ],
+  "features.grace.951910e57c69dd4169fa49a8f548aa5e": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — мы не смогли списать деньги с вашей карты'"
+    }
+  ],
+  "features.grace.a86197dde47f5e716a8f90e8c4a90222": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — возможно, ваша карта украдена или утеряна"
+    }
+  ],
+  "features.grace.bc7106df0f89f751ebc8420cbbd8bd4d": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — у вашей карты истёк срок действия"
+    }
+  ],
+  "features.grace.c34b057f16be9a4cecebb14b2519b9d8": [
+    {
+      "type": 0,
+      "value": "Мои карты"
+    }
+  ],
+  "features.grace.custom-id.grace-player-communication": [
+    {
+      "type": 0,
+      "value": "Мои карты"
+    }
+  ],
+  "features.grace.custom-id.progress-message": [
+    {
+      "type": 0,
+      "value": "Пробуем оплатить подписку"
+    }
+  ],
+  "features.grace.custom-id.prolongation-failed": [
+    {
+      "type": 0,
+      "value": "Нет, всё равно не получилось списать деньги за подписку"
+    }
+  ],
+  "features.grace.custom-id.prolongation-success": [
+    {
+      "type": 0,
+      "value": "Оплата прошла успешно!"
+    }
+  ],
+  "features.grace.custom-id.subscription-payment-failed": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — мы не смогли списать деньги с вашей карты"
+    }
+  ],
+  "features.grace.eebbf46983c873628ad43d2e44e4d1a0": [
+    {
+      "type": 0,
+      "value": "Пробуем оплатить подписку"
+    }
+  ],
+  "features.grace.f2db72c6de33e51d73df9d4293b4fddb": [
+    {
+      "type": 0,
+      "value": "Нет, всё равно не получилось списать деньги за подписку"
+    }
+  ],
+  "features.grace.f36e96c2521b1c6268c16ab776936c38": [
+    {
+      "type": 0,
+      "value": "Супер"
+    }
+  ],
+  "features.grace.f64159f2ff36780117f36171f067239b": [
+    {
+      "type": 0,
+      "value": "Оплата подписки не прошла — на вашей карте недостаточно средств"
+    }
+  ],
+  "features.header.529cfa7a378261747aaeddc86ffdd2d7": [
+    {
+      "type": 0,
+      "value": "Смотреть кино бесплатно"
+    }
+  ],
+  "features.header.74592cd47e6a3384540668d07c60a778": [
+    {
+      "type": 0,
+      "value": "Смотреть кино"
+    }
+  ],
+  "features.header.fbde4dfcbea3d3768331aad58066639e": [
+    {
+      "type": 0,
+      "value": "Попробовать Плюс"
+    }
+  ],
+  "features.landings.101299b0fac165aca741253d7453a539": [
+    {
+      "type": 0,
+      "value": "18+"
+    }
+  ],
+  "features.landings.10ac7a75673ba73e5ab0d891878bb4b5": [
+    {
+      "type": 0,
+      "value": "Задать вопрос"
+    }
+  ],
+  "features.landings.1237c0cfdcf1754e89fc2e63ae504d32": [
+    {
+      "type": 0,
+      "value": "Кинопоиск"
+    }
+  ],
+  "features.landings.1b883eb4ce96e32cc25abfa20d60bd26": [
+    {
+      "type": 0,
+      "value": "2013 г. и новее"
+    }
+  ],
+  "features.landings.1e6e5f901e5ae44738fb4497947061ac": [
+    {
+      "type": 0,
+      "value": "Помощь"
+    }
+  ],
+  "features.landings.4e278258dacdc240c44fc064d426ff0b": [
+    {
+      "type": 0,
+      "value": "Apple, логотип Apple являются товарными знаками Apple Inc., зарегистрированными в США и иных странах и регионах. App Store является знаком обслуживания Apple Inc."
+    }
+  ],
+  "features.landings.59abf90368cbdfde3c4348076ba81bf4": [
+    {
+      "type": 0,
+      "value": "Google Play и логотип Google Play являются товарными знаками корпорации Google LLC."
+    }
+  ],
+  "features.landings.5f24b6f2e8103d6d36dea65b27d5b133": [
+    {
+      "type": 0,
+      "value": "2014 г. и новее"
+    }
+  ],
+  "features.landings.7f434b03a0dab007d38e6b086be4f76e": [
+    {
+      "type": 0,
+      "value": "с "
+    },
+    {
+      "type": 1,
+      "value": "start"
+    }
+  ],
+  "features.landings.84973ef7bec921c1762a7a362a7a748b": [
+    {
+      "type": 0,
+      "value": "Мы всегда готовы вам помочь."
+    }
+  ],
+  "features.landings.8f13b6c95f42b12c9ffeecef25b43c7f": [
+    {
+      "type": 0,
+      "value": "© 2003–"
+    },
+    {
+      "type": 1,
+      "value": "currentYear"
+    }
+  ],
+  "features.landings.921bf95cfd7bc6657d291cb3f04aeb14": [
+    {
+      "type": 0,
+      "value": "Ответы на вопросы"
+    }
+  ],
+  "features.landings.96a531fb433cec78aaffca3dd4789567": [
+    {
+      "type": 0,
+      "value": "Телевизоры и приставки"
+    }
+  ],
+  "features.landings.ab50e5efff7fca711d191ac69a51d7af": [
+    {
+      "type": 0,
+      "value": "Адрес для обращений пользователей:"
+    }
+  ],
+  "features.landings.b1b9b6a00dc2e8a42fe56cc25dcecfac": [
+    {
+      "type": 0,
+      "value": "kinopoisk@support.yandex.ru"
+    }
+  ],
+  "features.landings.b746fa1eccf079f06ee3b3c1b4c67ec9": [
+    {
+      "type": 0,
+      "value": "Проект компании"
+    }
+  ],
+  "features.landings.bd3c558f4a0f6e7ccef0ba7f3cf186e5": [
+    {
+      "type": 0,
+      "value": "Все устройства"
+    }
+  ],
+  "features.landings.bd75a283582cfa0db0720b0d25062128": [
+    {
+      "type": 0,
+      "value": "ООО «Кинопоиск», адрес местонахождения: 115035, Россия, г. Москва, ул. Садовническая, д. 82, стр. 2, пом. 9А01"
+    }
+  ],
+  "features.landings.bdeb8fb02326bd4bc9f1736e31218913": [
+    {
+      "type": 0,
+      "value": "Пользовательское соглашение"
+    }
+  ],
+  "features.landings.dd9a8daec8bff069c615309263c13aee": [
+    {
+      "type": 0,
+      "value": "превратит ваш телевизор в Смарт ТВ"
+    }
+  ],
+  "features.landings.eb1f92dd7dfa728a075167c78d56c795": [
+    {
+      "type": 0,
+      "value": "Обычный телевизор"
+    }
+  ],
+  "features.movie.342d48f76d6332bf7a014955bea32a7b": [
+    {
+      "type": 0,
+      "value": "в магазине"
+    }
+  ],
+  "features.movie.411b90734484c4fd6aed2f4a6a8b7d83": [
+    {
+      "type": 0,
+      "value": "ТОП 250"
+    }
+  ],
+  "features.movie.4feb7481d1325b69b136b7518afaa684": [
+    {
+      "type": 0,
+      "value": "4К доступно только на больших экранах"
+    }
+  ],
+  "features.movie.57247ceceaf06453c7bc40c8159c63a7": [
+    {
+      "type": 0,
+      "value": "Установить на ТВ"
+    }
+  ],
+  "features.movie.6fdd4623e0aabf7706a84b0ce9aa1067": [
+    {
+      "type": 0,
+      "value": "этой весной"
+    }
+  ],
+  "features.movie.727f01f0b5b85d0d8aba91c02e0d5810": [
+    {
+      "options": {
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Рейтинг "
+            },
+            {
+              "type": 1,
+              "value": "rating"
+            }
+          ]
+        },
+        "true": {
+          "value": [
+            {
+              "type": 0,
+              "value": "Рейтинг "
+            },
+            {
+              "type": 1,
+              "value": "rating"
+            },
+            {
+              "type": 0,
+              "value": ", ТОП 250, "
+            },
+            {
+              "type": 1,
+              "value": "position"
+            },
+            {
+              "type": 0,
+              "value": " место"
+            }
+          ]
+        }
+      },
+      "type": 5,
+      "value": "isExtended"
+    }
+  ],
+  "features.movie.7f434b03a0dab007d38e6b086be4f76e": [
+    {
+      "type": 0,
+      "value": "с "
+    },
+    {
+      "type": 1,
+      "value": "start"
+    }
+  ],
+  "features.movie.918d02b21862451d23c0c93e12390163": [
+    {
+      "type": 1,
+      "value": "age"
+    },
+    {
+      "type": 0,
+      "value": "+"
+    }
+  ],
+  "features.movie.9b0c5a2ec0fb99ad1bacb96c1cff92e5": [
+    {
+      "type": 0,
+      "value": "в подписке"
+    }
+  ],
+  "features.movie.9f96c5acada5a0f8c258f9ca66612b90": [
+    {
+      "type": 1,
+      "value": "episodeNumber"
+    },
+    {
+      "type": 0,
+      "value": " серия"
+    }
+  ],
+  "features.movie.aa7e901dc1609d51f5e311ff4139cbec": [
+    {
+      "type": 0,
+      "value": "этой осенью"
+    }
+  ],
+  "features.movie.b42702f613b910d3f5a03fa8a9cb3dee": [
+    {
+      "type": 1,
+      "value": "position"
+    },
+    {
+      "type": 0,
+      "value": " место"
+    }
+  ],
+  "features.movie.c75e6a6e36d34988dc280c23a29f082f": [
+    {
+      "type": 0,
+      "value": "новый сезон"
+    }
+  ],
+  "features.movie.cfedc14fa3a3b9e90204c250d64941d1": [
+    {
+      "type": 0,
+      "value": "Качество"
+    }
+  ],
+  "features.movie.custom-id.paid-multiple": [
+    {
+      "type": 0,
+      "value": "в магазине"
+    }
+  ],
+  "features.movie.d7e291153580b2b6dfa82e600d5e1eac": [
+    {
+      "type": 0,
+      "value": "этим летом"
+    }
+  ],
+  "features.movie.e51b3d652315f53a077f4b6fbc8e55ee": [
+    {
+      "type": 0,
+      "value": "скоро"
+    }
+  ],
+  "features.movie.f0cec1ed305b3081e59b58700139158c": [
+    {
+      "type": 1,
+      "value": "seasonNumber"
+    },
+    {
+      "type": 0,
+      "value": " сезон"
+    }
+  ],
+  "features.movie.f4b4b0a030887cb1f946bfbf4c0fca87": [
+    {
+      "type": 0,
+      "value": "этой зимой"
+    }
+  ],
+  "features.movie.fb8e5fb9093d9797474fe009f319f792": [
+    {
+      "type": 1,
+      "value": "firstSeasonNumber"
+    },
+    {
+      "type": 0,
+      "value": "–"
+    },
+    {
+      "type": 1,
+      "value": "lastSeasonNumber"
+    },
+    {
+      "type": 0,
+      "value": " сезоны"
+    }
+  ],
+  "features.onboarding.1459218e8ce6185a43e2cf6a6bb37220": [
+    {
+      "type": 0,
+      "value": "Остаться в браузере"
+    }
+  ],
+  "features.onboarding.33e3dd77fd57a5e5a42f21c585da990a": [
+    {
+      "type": 0,
+      "value": "Установите приложение Кинопоиска, чтобы смотреть фильмы и сериалы где угодно — даже без интернета."
+    }
+  ],
+  "features.onboarding.57247ceceaf06453c7bc40c8159c63a7": [
+    {
+      "type": 0,
+      "value": "Установить на ТВ"
+    }
+  ],
+  "features.onboarding.78a61e539e75575c67e18f9661a95904": [
+    {
+      "type": 0,
+      "value": "Открыть в приложении"
+    }
+  ],
+  "features.onboarding.a905e4a08e26e84cbcea9c691e66a23f": [
+    {
+      "type": 0,
+      "value": "У Кинопоиска есть удобное приложение"
+    }
+  ],
+  "features.onboarding.dbb4c6019d5bf488c5b1a0db4d0bfffa": [
+    {
+      "type": 0,
+      "value": "На смартфоне и планшете"
+    }
+  ],
+  "features.onboarding.e9af7dc77e9402e0545a6ce5c9fa91fc": [
+    {
+      "type": 0,
+      "value": "И для телевизоров тоже приложение есть"
+    }
+  ],
+  "features.player.003e9be2d74f308690057ddd0ec59dab": [
+    {
+      "type": 0,
+      "value": "VSID сессии: "
+    },
+    {
+      "type": 1,
+      "value": "vsid"
+    }
+  ],
+  "features.player.00a3a6befb6bd3ae3783795a857f2356": [
+    {
+      "type": 0,
+      "value": "Воспроизведение видео"
+    }
+  ],
+  "features.player.03ee826ab16eba9b9d3671e5e371100a": [
+    {
+      "type": 0,
+      "value": "Пропустить"
+    }
+  ],
+  "features.player.073727122baf4a4f2e9432f01033d89e": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "У нас что-то пошло не так."
+        }
+      ],
+      "type": 8,
+      "value": "div"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Попробуйте обновить"
+        }
+      ],
+      "type": 8,
+      "value": "div"
+    }
+  ],
+  "features.player.0b24cde332da89fc3490c65f31dab0f9": [
+    {
+      "type": 0,
+      "value": "Следующая серия"
+    }
+  ],
+  "features.player.0c2b6bd96563708f3a712a7d44498e82": [
+    {
+      "type": 0,
+      "value": "Запустить воспроизведение"
+    }
+  ],
+  "features.player.0d9b72a41fb93f4d82f8485abd5aba85": [
+    {
+      "type": 0,
+      "value": "Пауза"
+    }
+  ],
+  "features.player.14127fc43c91b96aaf3fbe0ffe98f574": [
+    {
+      "type": 0,
+      "value": "Телепрограмма"
+    }
+  ],
+  "features.player.16dfcaee2b0a80324873bfedd43c8d3f": [
+    {
+      "type": 0,
+      "value": "Выйти из полноэкраного режима"
+    }
+  ],
+  "features.player.1ccfe0c6ae3676fb5dec1f87697de192": [
+    {
+      "type": 0,
+      "value": "Сезоны и серии"
+    }
+  ],
+  "features.player.2132ab8bcd6a61096ffcdcb97595599a": [
+    {
+      "type": 0,
+      "value": "Проверьте соединение и попробуйте обновить"
+    }
+  ],
+  "features.player.339a199f0d5620df531a6f2709b55127": [
+    {
+      "type": 0,
+      "value": "Эта информация будет полезна при обращении в поддержку"
+    }
+  ],
+  "features.player.34283b40679f20d19c1ac0ce06b9f1e5": [
+    {
+      "type": 1,
+      "value": "percent"
+    },
+    {
+      "type": 0,
+      "value": "% громкость"
+    }
+  ],
+  "features.player.4c84c91c1ffb82367544280d71555f67": [
+    {
+      "type": 0,
+      "value": "Напишите в поддержку —"
+    }
+  ],
+  "features.player.4e9f01c7c9b9d609862ebbd23f0d4895": [
+    {
+      "type": 0,
+      "value": "Перейти к следующему эпизоду"
+    }
+  ],
+  "features.player.5bb5ebc302ce0bf79c61fcf47717504a": [
+    {
+      "type": 0,
+      "value": "Выключить звук"
+    }
+  ],
+  "features.player.63dc1125a3e9bbf90621e50a8503d68c": [
+    {
+      "type": 0,
+      "value": "Прямой эфир"
+    }
+  ],
+  "features.player.670f1d1308226c141a2cd7523c05d18f": [
+    {
+      "type": 0,
+      "value": "Звук отключен"
+    }
+  ],
+  "features.player.765268656eb2b798ad38ae896d7a06f4": [
+    {
+      "type": 0,
+      "value": "невозможно. Устройство"
+    }
+  ],
+  "features.player.7ae26c9f15fb32da300a6a4354adbf94": [
+    {
+      "type": 0,
+      "value": "поможем разобраться"
+    }
+  ],
+  "features.player.8dd6dff071c60b5ff28fd733eb17e20f": [
+    {
+      "type": 0,
+      "value": "Аудио и субтитры"
+    }
+  ],
+  "features.player.917565afec94a01a3c002145da97714a": [
+    {
+      "type": 0,
+      "value": "не поддерживается"
+    }
+  ],
+  "features.player.946efde805ef2c3aa015a2e2d1d00158": [
+    {
+      "type": 0,
+      "value": "Перемотать вперед на "
+    },
+    {
+      "type": 1,
+      "value": "seconds"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунды"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунда"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунд"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "seconds"
+    }
+  ],
+  "features.player.96d1e91d28ad8ca9b110059a8f7b7869": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "часа"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "час"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "часов"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "hours"
+    }
+  ],
+  "features.player.a2acc4b5ca758b7e8229456b4769da5a": [
+    {
+      "type": 0,
+      "value": "Смотреть повтор"
+    }
+  ],
+  "features.player.a5b4d07b149d34e98e05563814490de7": [
+    {
+      "type": 0,
+      "value": "Включить звук"
+    }
+  ],
+  "features.player.a72322aac8f5552e69dd1808b0226742": [
+    {
+      "type": 0,
+      "value": "Не получилось включить видео."
+    }
+  ],
+  "features.player.acddfa5bf77e19b9dfe7f426bc2fa168": [
+    {
+      "type": 0,
+      "value": "Размер"
+    }
+  ],
+  "features.player.aefbf08d812e7f0ecf51eeae014f7e3b": [
+    {
+      "type": 0,
+      "value": "Смотреть заставку"
+    }
+  ],
+  "features.player.b663616eb8814e2c097ac84c3e514edc": [
+    {
+      "type": 0,
+      "value": "Что-то с интернетом"
+    }
+  ],
+  "features.player.c1ddbb30be596ff0dedc6c72c68aae55": [
+    {
+      "type": 0,
+      "value": "Громкость"
+    }
+  ],
+  "features.player.c34825fff1b42d8cf97f1c3387a1bcc2": [
+    {
+      "type": 0,
+      "value": "Перемотать назад на "
+    },
+    {
+      "type": 1,
+      "value": "seconds"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунды"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунда"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунд"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "seconds"
+    }
+  ],
+  "features.player.c55f49ffa9a1742318b750752bfd6372": [
+    {
+      "type": 0,
+      "value": "Смотреть титры"
+    }
+  ],
+  "features.player.c7bd54d9938f52c859baf45f070a5f49": [
+    {
+      "type": 0,
+      "value": "Перейти в полноэкранный режим"
+    }
+  ],
+  "features.player.c919d65bd95698af8f15fa8133bf490d": [
+    {
+      "type": 0,
+      "value": "Настройки"
+    }
+  ],
+  "features.player.cb29c393c2c6322ddf2325f663c6282a": [
+    {
+      "type": 0,
+      "value": "Вернуться в эфир"
+    }
+  ],
+  "features.player.cdb64df03be96c1f54ca8c0f9f25b172": [
+    {
+      "type": 0,
+      "value": "Оставшееся время "
+    },
+    {
+      "type": 1,
+      "value": "renderedDuration"
+    }
+  ],
+  "features.player.custom-id.aria-button-label": [
+    {
+      "type": 0,
+      "value": "Смотреть"
+    }
+  ],
+  "features.player.custom-id.show-credits": [
+    {
+      "type": 0,
+      "value": "Смотреть титры"
+    }
+  ],
+  "features.player.d7c16cec0a559220916286d356f995f6": [
+    {
+      "type": 0,
+      "value": "Смотреть"
+    }
+  ],
+  "features.player.d975532bf04f0964086654ed3035ad68": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "минуты"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "минута"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "минут"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "minutes"
+    }
+  ],
+  "features.player.e3f98d0d0a7a4a28e589d7e6f9dad117": [
+    {
+      "type": 0,
+      "value": "Отправить на устройство"
+    }
+  ],
+  "features.player.e764040e412cd68c58961f10617985c8": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "В вашем регионе посмотреть"
+        }
+      ],
+      "type": 8,
+      "value": "div"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "не получится, или вам нужно"
+        }
+      ],
+      "type": 8,
+      "value": "div"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "выключить VPN"
+        }
+      ],
+      "type": 8,
+      "value": "div"
+    }
+  ],
+  "features.player.e977ca0306a062aabce387af9505e4c2": [
+    {
+      "type": 0,
+      "value": "ID сессии: "
+    },
+    {
+      "type": 1,
+      "value": "sessionId"
+    }
+  ],
+  "features.player.ee56c60518ee7cb48b643a2f722307ec": [
+    {
+      "type": 0,
+      "value": "Закрыть плеер"
+    }
+  ],
+  "features.player.f51bdc0bde93be3277569468f4ea350a": [
+    {
+      "offset": 0,
+      "options": {
+        "few": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунды"
+            }
+          ]
+        },
+        "one": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунда"
+            }
+          ]
+        },
+        "other": {
+          "value": [
+            {
+              "type": 0,
+              "value": "секунд"
+            }
+          ]
+        }
+      },
+      "pluralType": "cardinal",
+      "type": 6,
+      "value": "seconds"
+    }
+  ],
+  "features.promotions.6affd5cf98bbbcf61b22ce45cec976eb": [
+    {
+      "type": 0,
+      "value": "Рады, что вам нравится!"
+    }
+  ],
+  "features.promotions.a34c7c172fbf1f4fa5e4dc913c568a04": [
+    {
+      "type": 0,
+      "value": "Будем стараться ещё больше"
+    }
+  ],
+  "features.promotions.a4a765dfc82e3e2beb8aa33ae58df54d": [
+    {
+      "type": 0,
+      "value": "Спасибо!"
+    }
+  ],
+  "features.promotions.aa67749bf701d3ec18d7b14aaef4940a": [
+    {
+      "type": 0,
+      "value": "Очень нравится"
+    }
+  ],
+  "features.promotions.c26dfb58bc431253d741f4fab1e2001e": [
+    {
+      "type": 0,
+      "value": "Не хорошо, но и не ужасно"
+    }
+  ],
+  "features.promotions.c34a0b035dfd5d4cca1e3988adf5b1da": [
+    {
+      "type": 0,
+      "value": "Стараемся!"
+    }
+  ],
+  "features.promotions.e5dfb3c5459121651bb164feb8efb8b2": [
+    {
+      "type": 0,
+      "value": "Не нравится"
+    }
+  ],
+  "features.selection.4b99f5f649a48c2a71c7d86bdc31316e": [
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " — смотреть онлайн в хорошем качестве — Кинопоиск"
+    }
+  ],
+  "features.selections.3241bb2b801b15726eb1a4f4505392c8": [
+    {
+      "type": 0,
+      "value": "Топ-10"
+    }
+  ],
+  "features.selections.63dc1125a3e9bbf90621e50a8503d68c": [
+    {
+      "type": 0,
+      "value": "Прямой эфир"
+    }
+  ],
+  "features.selections.7a3c7ca10a0a8ddd2026c855d1dbf15d": [
+    {
+      "type": 0,
+      "value": "Идёт сейчас"
+    }
+  ],
+  "features.selections.b4d4bff4e467113d8dd703b64f55048c": [
+    {
+      "type": 0,
+      "value": "сериал"
+    }
+  ],
+  "features.selections.c0e1278f1ed860abf51fa94507086b4a": [
+    {
+      "type": 0,
+      "value": "спорт"
+    }
+  ],
+  "features.selections.cd7bef4a6c9bda4aac0baf377d267bf7": [
+    {
+      "type": 0,
+      "value": "фильм"
+    }
+  ],
+  "features.selections.d7c16cec0a559220916286d356f995f6": [
+    {
+      "type": 0,
+      "value": "Смотреть"
+    }
+  ],
+  "features.selections.dfab76f0231c85006e148718255fc8e4": [
+    {
+      "type": 1,
+      "value": "announceDate"
+    },
+    {
+      "type": 0,
+      "value": " в "
+    },
+    {
+      "type": 1,
+      "value": "announceTime"
+    }
+  ],
+  "features.selections.f5be730561cfd2a90dabda31f2442af6": [
+    {
+      "type": 0,
+      "value": "Рекомендуем эти сериалы вам, "
+    },
+    {
+      "type": 1,
+      "value": "firstName"
+    }
+  ],
+  "features.selections.fd6796005f7b444d35ec124c67b5c145": [
+    {
+      "type": 0,
+      "value": "шоу"
+    }
+  ],
+  "features.subprofile-pin-code-modal.01b9e2bb20fb45d86f799df296271112": [
+    {
+      "type": 0,
+      "value": "Установите ПИН-код для выхода из детского раздела"
+    }
+  ],
+  "features.subprofile-pin-code-modal.04d38ddcd22abf7683d4f72e30292d02": [
+    {
+      "type": 0,
+      "value": "Отправили ПИН-код на номер\n"
+    },
+    {
+      "type": 1,
+      "value": "phone"
+    }
+  ],
+  "features.subprofile-pin-code-modal.0a55932f29ea7ca18aa8d0f8b2e522fa": [
+    {
+      "type": 0,
+      "value": "Что-то пошло не так. Попробуйте ввести ПИН-код чуть позже"
+    }
+  ],
+  "features.subprofile-pin-code-modal.112df415e5452094b7c2dc3634443271": [
+    {
+      "type": 0,
+      "value": "Отправить ещё раз"
+    }
+  ],
+  "features.subprofile-pin-code-modal.195da68ff7e5b915602bc3f58818723b": [
+    {
+      "type": 0,
+      "value": "Так ребёнок случайно не увидит кино не по возрасту"
+    }
+  ],
+  "features.subprofile-pin-code-modal.2b5abcbe70089f0c4bb379aaba6e6d9d": [
+    {
+      "type": 0,
+      "value": "ПИН-код неверный"
+    }
+  ],
+  "features.subprofile-pin-code-modal.44223777e60060aeee1b79def2d7de33": [
+    {
+      "type": 0,
+      "value": "Что-то пошло не так. Попробуйте сохранить ПИН-код чуть позже"
+    }
+  ],
+  "features.subprofile-pin-code-modal.52dd3c9086fc7062beac9479ecdbad46": [
+    {
+      "type": 0,
+      "value": "Не нужно"
+    }
+  ],
+  "features.subprofile-pin-code-modal.59f142b0c77c4221a77a9cfa28aeadc5": [
+    {
+      "type": 0,
+      "value": "Введите ПИН-код для выхода из детского раздела"
+    }
+  ],
+  "features.subprofile-pin-code-modal.6961bb3fbc3347a43000a170776400a9": [
+    {
+      "type": 0,
+      "value": "Напомнить ПИН-код"
+    }
+  ],
+  "features.subprofile-pin-code-modal.72180c2104fc0e48967d9bc19b3e5290": [
+    {
+      "type": 0,
+      "value": "Вводить можно только цифры"
+    }
+  ],
+  "features.subprofile-pin-code-modal.74ea58b6a801f0dce4e5d34dbca034dc": [
+    {
+      "type": 0,
+      "value": "Сохранить"
+    }
+  ],
+  "features.subprofile-pin-code-modal.76a0b6cae8ff2cdf3548f49e8e9e764b": [
+    {
+      "type": 0,
+      "value": "ПИН-код неверный. Последний раз его менял\nпользователь "
+    },
+    {
+      "type": 1,
+      "value": "displayName"
+    }
+  ],
+  "features.subprofile-pin-code-modal.781f27e090c5586bb51b9d6290e8cfbb": [
+    {
+      "type": 0,
+      "value": "ПИН-код для выхода из детского раздела сохранён"
+    }
+  ],
+  "features.subprofile-pin-code-modal.7fe136f1b9b0989067f0cacfd750de74": [
+    {
+      "type": 0,
+      "value": "Установить"
+    }
+  ],
+  "features.subprofile-pin-code-modal.849aa1151a247eb6d8e94e2ef3175609": [
+    {
+      "type": 0,
+      "value": "Ввести номер"
+    }
+  ],
+  "features.subprofile-pin-code-modal.987b33c664dce148f1d17f6eb9ab3e79": [
+    {
+      "type": 0,
+      "value": "Отмена"
+    }
+  ],
+  "features.subprofile-pin-code-modal.a217647997f86baa486be39ebff714a0": [
+    {
+      "type": 0,
+      "value": "Ввести ПИН-код"
+    }
+  ],
+  "features.subprofile-pin-code-modal.a271b5224006652e0434f2b589d55939": [
+    {
+      "type": 0,
+      "value": "Отправить ещё раз  "
+    },
+    {
+      "type": 1,
+      "value": "delayText"
+    }
+  ],
+  "features.subprofile-pin-code-modal.a3e6343eb3032af798db363e5a30b8e7": [
+    {
+      "type": 0,
+      "value": "Отправили ПИН-код на почту\n"
+    },
+    {
+      "type": 1,
+      "value": "email"
+    }
+  ],
+  "features.subprofile-pin-code-modal.be2350a1e31c2bc775daaceebbb72224": [
+    {
+      "type": 0,
+      "value": "Не удалось отправить ПИН-код"
+    }
+  ],
+  "features.subprofile-pin-code-modal.c71d21bc1dbf61e172c7dfc4e99cb9a8": [
+    {
+      "type": 0,
+      "value": "ПИН-код для выхода из детского раздела установлен"
+    }
+  ],
+  "features.subprofile-pin-code-modal.cb09640dc7969df604ba8a5cdb55c12b": [
+    {
+      "type": 0,
+      "value": "Что-то пошло не так. Попробуйте установить ПИН-код чуть позже"
+    }
+  ],
+  "features.subprofile-pin-code-modal.custom-id.cancel": [
+    {
+      "type": 0,
+      "value": "Отмена"
+    }
+  ],
+  "features.subprofile-pin-code-modal.e6b0f285c9bda5435c19df6590b926fa": [
+    {
+      "type": 0,
+      "value": "Придумайте ПИН-код для выхода из детского раздела"
+    }
+  ],
+  "features.subprofile-pin-code-modal.f3a23a02679bbe3e773bf8c5fbeedd18": [
+    {
+      "type": 0,
+      "value": "Отправим ПИН-код на ваш телефон"
+    }
+  ],
+  "features.subscription.a5827bd18c3596aef5e19a788b062165": [
+    {
+      "type": 0,
+      "value": "Подключить и смотреть"
+    }
+  ],
+  "features.suggest.2ffbb01333b986687c30c6b54a8da21b": [
+    {
+      "type": 0,
+      "value": "Входит в топ 10 за месяц"
+    }
+  ],
+  "features.suggest.428f603037e3030d35e3a9d226bc4c81": [
+    {
+      "type": 0,
+      "value": "История поиска"
+    }
+  ],
+  "features.suggest.b4d4bff4e467113d8dd703b64f55048c": [
+    {
+      "type": 0,
+      "value": "сериал"
+    }
+  ],
+  "features.suggest.df828bdc835eede93026447f4aee5033": [
+    {
+      "type": 0,
+      "value": "Списки и подборки"
+    }
+  ],
+  "features.suggest.e13deabada1cd112c32fcd798434d9fd": [
+    {
+      "type": 0,
+      "value": "Фильмы и сериалы"
+    }
+  ],
+  "features.suggest.e3cfe19bb44b97ef2c5e07bf8509147c": [
+    {
+      "type": 0,
+      "value": "Персоны"
+    }
+  ],
+  "features.suggest.e7d3687328535856b66ae52454aeb217": [
+    {
+      "type": 0,
+      "value": "Кинотеатры"
+    }
+  ],
+  "features.user-profile.1706282c5244c8e988f76c5eb939b754": [
+    {
+      "type": 0,
+      "value": "Редактировать"
+    }
+  ],
+  "features.user-profile.2b93bb9159954153f8bd5ba145109eb1": [
+    {
+      "type": 0,
+      "value": "Администратор"
+    }
+  ],
+  "features.user-profile.33faf422856bcb979e4c5a5569b4cc3d": [
+    {
+      "type": 0,
+      "value": "Войти в профиль "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ],
+  "features.user-profile.482bc925472690eed7a8a470d09d9d76": [
+    {
+      "type": 0,
+      "value": "Показать всех"
+    }
+  ],
+  "features.user-profile.a2e57c6dacb3ba1b5cf6b1b22456e564": [
+    {
+      "type": 0,
+      "value": "Не авторизован"
+    }
+  ],
+  "features.user-profile.custom-id.show-all-profiles": [
+    {
+      "type": 0,
+      "value": "Показать всех"
+    }
+  ],
+  "features.user-profile.d9e1040a60fe9e91812c9f8ff2ed15bc": [
+    {
+      "type": 0,
+      "value": "Просмотр запрещен"
+    }
+  ],
+  "features.user-profile.fd944d548c94415cf92b967b5c45e2f2": [
+    {
+      "type": 0,
+      "value": "Пригласить в семью"
+    }
+  ],
+  "features.watch-next.1efdd44b7d2aaf0ebbda600b6e062987": [
+    {
+      "type": 0,
+      "value": "Добавили в раздел «Продолжить просмотр»"
+    }
+  ],
+  "features.watch-next.5b3379d64a10303a7223c29bace9239f": [
+    {
+      "type": 0,
+      "value": "Смотреть позже"
+    }
+  ],
+  "features.watch-next.9311e93639328d0585a160235d7ecaa9": [
+    {
+      "type": 0,
+      "value": "Что-то пошло не так. Попробуйте добавить в раздел «Продолжить просмотр» позже"
+    }
+  ],
+  "features.watch-next.d0603e56a4af8dc6d9d2614ec7e42118": [
+    {
+      "type": 0,
+      "value": "Убрать добавленное кино можно в разделе «Продолжить просмотр»"
+    }
+  ],
+  "features.watching-history.61d4027f10fce52b6a13d38754697b27": [
+    {
+      "type": 0,
+      "value": "Вчера"
+    }
+  ],
+  "features.watching-history.7a96328ae60111e3a6b74f7a45db85d9": [
+    {
+      "type": 0,
+      "value": "История просмотра"
+    }
+  ],
+  "features.watching-history.96269cac1c3515dd7ea0b617074d804d": [
+    {
+      "type": 0,
+      "value": "Сегодня"
+    }
+  ],
+  "features.watching-history.a0c5a6f18ebc3a69a8087eced1b6de57": [
+    {
+      "type": 0,
+      "value": "Просмотр по подписке недоступен"
+    }
+  ],
+  "pages.admin-family-add-permission.ui.admin-permission-form.2b93bb9159954153f8bd5ba145109eb1": [
+    {
+      "type": 0,
+      "value": "Администратор"
+    }
+  ],
+  "pages.admin-family-add-permission.ui.admin-permission-form.409cc69ea67379db48e9b1037b18b5dc": [
+    {
+      "type": 0,
+      "value": "Авторизоваться"
+    }
+  ],
+  "pages.admin-family-add-permission.ui.admin-permission-form.63a753751e8899416d62b1d1bbb61720": [
+    {
+      "type": 0,
+      "value": "Войти"
+    }
+  ],
+  "pages.admin-family-add-permission.ui.admin-permission-form.6510c7f694f8ba96e8dab9eea09bccc3": [
+    {
+      "type": 0,
+      "value": "Приглашать в семью может только администратор"
+    }
+  ],
+  "pages.admin-family-add-permission.ui.admin-permission-form.987b33c664dce148f1d17f6eb9ab3e79": [
+    {
+      "type": 0,
+      "value": "Отмена"
+    }
+  ],
+  "pages.channels.selectors.de282adf4597251e69ac4e3f2e7b7b93": [
+    {
+      "type": 0,
+      "value": "Все каналы"
+    }
+  ],
+  "pages.channels.ui.page.65bc397d3cb68cb8899154adc6119128": [
+    {
+      "type": 0,
+      "value": "Смотреть каналы"
+    }
+  ],
+  "pages.cover.ui.additional-block.3a99a32d9fc6de2adf908bae43b13e07": [
+    {
+      "type": 0,
+      "value": "Удобный детский раздел на Яндекс Музыке"
+    }
+  ],
+  "pages.cover.ui.additional-block.aec6b9bfd6b108914dc61a63ae350f2c": [
+    {
+      "type": 0,
+      "value": "Плюс к этому"
+    }
+  ],
+  "pages.cover.ui.additional-block.c8d7a107ed3af8535b130fd0a16ee1fa": [
+    {
+      "type": 0,
+      "value": "Более 600 развивающих игр в Кубокоте"
+    }
+  ],
+  "pages.cover.ui.additional-block.dbd8a822baafaabf427113eea8092655": [
+    {
+      "type": 0,
+      "value": "До 40% кешбэка баллами на детские события в Яндекс Афише"
+    }
+  ],
+  "pages.cover.ui.block-messages.11326af2935ea26841c7966d36c1d038": [
+    {
+      "type": 0,
+      "value": "Рекомендации по возрасту"
+    }
+  ],
+  "pages.cover.ui.block-messages.3a485a755ea7b1ea050651f35230f8e6": [
+    {
+      "type": 0,
+      "value": "Детский раздел, в котором удобно выбирать фильмы и мультики. Теперь детские просмотры не смешиваются с вашими"
+    }
+  ],
+  "pages.cover.ui.block-messages.3fb5882cb2330f93f5686c51ed930dd1": [
+    {
+      "type": 0,
+      "value": "Вы сможете удалённо прерывать просмотр мультиков и кино, если ребёнок засиделся у экрана"
+    }
+  ],
+  "pages.cover.ui.block-messages.b7bff02da5ba8a98165aff221908232b": [
+    {
+      "type": 0,
+      "value": "У ребёнка свой Кинопоиск, а у вас свой"
+    }
+  ],
+  "pages.cover.ui.block-messages.bbe8b8a0d6456a4e5f5c8efc5e10ccc7": [
+    {
+      "type": 0,
+      "value": "И всё под вашим контролем"
+    }
+  ],
+  "pages.cover.ui.block-messages.c07d018d8d6eebdcfe9877015211b5a1": [
+    {
+      "type": 0,
+      "value": "Подберём фильмы и мультики именно для вашего ребёнка. Оставим только то, что ему можно смотреть"
+    }
+  ],
+  "pages.cover.ui.cover-sub-profile.26f29989bd55a6ebf36d80e9b8ab53dd": [
+    {
+      "type": 0,
+      "value": "До 30% кешбэка баллами за билеты на детские события на Яндекс Афише"
+    }
+  ],
+  "pages.cover.ui.cover-sub-profile.622c3ce24bc44d05d6dc7f1cbb1b7b4c": [
+    {
+      "type": 0,
+      "value": "Детские разделы на "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Кинопоиске"
+        }
+      ],
+      "type": 8,
+      "value": "highlight"
+    },
+    {
+      "type": 0,
+      "value": " и "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Яндекс Музыке"
+        }
+      ],
+      "type": 8,
+      "value": "highlight"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "повышенный кешбэк"
+        }
+      ],
+      "type": 8,
+      "value": "highlight"
+    },
+    {
+      "type": 0,
+      "value": " баллами на "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Яндекс Афише"
+        }
+      ],
+      "type": 8,
+      "value": "highlight"
+    },
+    {
+      "type": 0,
+      "value": " за билеты на детские события, весёлая учёба в "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Кубокоте и Сказбуке"
+        }
+      ],
+      "type": 8,
+      "value": "highlight"
+    }
+  ],
+  "pages.cover.ui.cover-sub-profile.9928496751b8793f0beed20f9ddd5760": [
+    {
+      "type": 0,
+      "value": "Подготовка к школе с котиком в приложении «Кубокот»"
+    }
+  ],
+  "pages.cover.ui.cover-sub-profile.b038544c3cfea2df9f76e7e513fa47d1": [
+    {
+      "type": 0,
+      "value": "Детский раздел на Яндекс Музыке  с песенками и сказками"
+    }
+  ],
+  "pages.cover.ui.cover-sub-profile.b641eb0140a5b71d0bc26f7f8573fcf0": [
+    {
+      "type": 0,
+      "value": "Развивающие игры в приложении «Сказбука»"
+    }
+  ],
+  "pages.cover.ui.cover-sub-profile.c1710e609b6c64b3ca4827ae92377352": [
+    {
+      "type": 0,
+      "value": "Детский раздел на Кинопоиске только с мультиками и кино по возрасту"
+    }
+  ],
+  "pages.cover.ui.stub-child.2775cac26f61b98209ca7d2733091b6a": [
+    {
+      "type": 0,
+      "value": "Отсканируйте QR-код или перейдите по ссылке"
+    }
+  ],
+  "pages.cover.ui.stub-child.5bd403b801a55b31f2b2972f835d9e50": [
+    {
+      "type": 0,
+      "value": "Оформите подписку — только с аккаунта взрослого"
+    }
+  ],
+  "pages.cover.ui.stub-child.7f493233cb62ac6bcf554b16dd502833": [
+    {
+      "type": 0,
+      "value": "Чтобы смотреть детский Кинопоиск, подключите опцию «Детям»"
+    }
+  ],
+  "pages.cover.ui.stub-child.a7b4c82f4aef9418a2e1acc280d62cb2": [
+    {
+      "type": 0,
+      "value": "Подключите опцию «Детям» — только с аккаунта взрослого"
+    }
+  ],
+  "pages.cover.ui.stub-child.custom-id.qr-code-option": [
+    {
+      "type": 0,
+      "value": "Отсканируйте QR-код или перейдите по ссылке"
+    }
+  ],
+  "pages.cover.ui.stub-child.f3fc82e4ac42d4243d2ab083e2ff5992": [
+    {
+      "type": 0,
+      "value": "Чтобы смотреть детский Кинопоиск, оформите подписку"
+    }
+  ],
+  "pages.profile-age-restriction.ui.edit-form.74ea58b6a801f0dce4e5d34dbca034dc": [
+    {
+      "type": 0,
+      "value": "Сохранить"
+    }
+  ],
+  "pages.profile-age-restriction.ui.edit-form.ae95843682f597b24d365a0e14be3704": [
+    {
+      "type": 0,
+      "value": "Произошла ошибка, попробуйте сохранить настройки еще раз"
+    }
+  ],
+  "pages.profile-age-restriction.ui.edit-form.ecdbdc8b4c68acdb3b84d57d23d884f9": [
+    {
+      "type": 0,
+      "value": "Отменить"
+    }
+  ],
+  "pages.profile-age-restriction.ui.page.2dbd92da2be1db67bbb72c2b12953016": [
+    {
+      "type": 0,
+      "value": "Какое кино показывать?"
+    }
+  ],
+  "pages.profile-settings.ui.delete-modal.96dfcf5d9a4882379041072245f3bc17": [
+    {
+      "type": 0,
+      "value": "Хорошо"
+    }
+  ],
+  "pages.profile-settings.ui.delete-modal.99546a9600a2a4dda5480c6fbe89e4bd": [
+    {
+      "type": 0,
+      "value": "Будет удалена вся история просмотров"
+    }
+  ],
+  "pages.profile-settings.ui.delete-modal.ecdbdc8b4c68acdb3b84d57d23d884f9": [
+    {
+      "type": 0,
+      "value": "Отменить"
+    }
+  ],
+  "pages.profile-settings.ui.page.34e1413d659cf910494586bf9fbc727e": [
+    {
+      "type": 0,
+      "value": "Готово"
+    }
+  ],
+  "pages.profile-settings.ui.settings.7b86868160c2ec6a51620147e3005f5b": [
+    {
+      "type": 0,
+      "value": "Очистить профиль"
+    }
+  ],
+  "pages.profile-settings.ui.settings.f681a7cd955d2130df7d8ed27d99b6bc": [
+    {
+      "type": 0,
+      "value": "Какое кино показывать"
+    }
+  ],
+  "pages.profiles.ui.add-to-family-button.fd944d548c94415cf92b967b5c45e2f2": [
+    {
+      "type": 0,
+      "value": "Пригласить в семью"
+    }
+  ],
+  "pages.profiles.ui.family-invited-modal.50bfa81c0acbe1ed9e14375d5c441750": [
+    {
+      "type": 0,
+      "value": "Приглашение отправлено"
+    }
+  ],
+  "pages.profiles.ui.family-invited-modal.96dfcf5d9a4882379041072245f3bc17": [
+    {
+      "type": 0,
+      "value": "Хорошо"
+    }
+  ],
+  "pages.profiles.ui.family-invited-modal.cfd495b5e7852f9308635043eeb30b4f": [
+    {
+      "type": 0,
+      "value": "Как только человек его примет, вы увидите его в списке"
+    }
+  ],
+  "pages.profiles.ui.family-invited-modal.f1d53960cb3d9b12e46845c3d3a1afc3": [
+    {
+      "type": 0,
+      "value": "Настройка семейной группы"
+    }
+  ],
+  "pages.profiles.ui.profiles-family-list.138ec9752a1db8a839ba4a8b88fc1abd": [
+    {
+      "type": 0,
+      "value": "Вернуть возможность просмотра можно в мобильном приложении"
+    }
+  ],
+  "pages.profiles.ui.profiles-family-page.05744bedee16b9dc56ba8c442ba1aea9": [
+    {
+      "type": 0,
+      "value": "Кто будет смотреть?"
+    }
+  ],
+  "pages.profiles.ui.profiles-family-page.a29e4ca96344a643733d40005f12c440": [
+    {
+      "type": 0,
+      "value": "Сюда можно добавить всю семью, а подписку разделить ещё на трёх близких. Для них она будет бесплатна"
+    }
+  ],
+  "pages.profiles.ui.profiles-family-page.c8694d7a00f9e50e1f29f4edd782d56b": [
+    {
+      "type": 0,
+      "value": "Ваша семья"
+    }
+  ],
+  "pages.profiles.ui.profiles-family-page.ed4505c7214fbc9f7850ec7646aa5c63": [
+    {
+      "type": 0,
+      "value": "Больше не спрашивать"
+    }
+  ],
+  "pages.profiles.utils.d9e1040a60fe9e91812c9f8ff2ed15bc": [
+    {
+      "type": 0,
+      "value": "Просмотр запрещен"
+    }
+  ],
+  "pages.settings.ui.audio-language-setting.6a9943b036b4f8172c503d4213c852ff": [
+    {
+      "type": 0,
+      "value": "Будем сразу включать при наличии"
+    }
+  ],
+  "pages.settings.ui.audio-language-setting.792386035adece6656d97f676b6a7c87": [
+    {
+      "type": 0,
+      "value": "Выберите язык"
+    }
+  ],
+  "pages.settings.ui.audio-language-setting.9be962af4e92493122a89bf006ba1162": [
+    {
+      "type": 0,
+      "value": "Язык аудиодорожки"
+    }
+  ],
+  "pages.settings.ui.kids-section.02ef032ec2f6e0596f4e0e90310968ff": [
+    {
+      "type": 0,
+      "value": "ПИН-код для выхода из детского раздела выключен"
+    }
+  ],
+  "pages.settings.ui.kids-section.3ebe2854873a71c9b002fa358df4093a": [
+    {
+      "type": 0,
+      "value": "Изменить ПИН-код"
+    }
+  ],
+  "pages.settings.ui.kids-section.bc0bb677800ddef1a84d71e07ed7a511": [
+    {
+      "type": 0,
+      "value": "Запрашивать ПИН-код для выхода из детского раздела"
+    }
+  ],
+  "pages.settings.ui.kids-section.cb787edfd88cf2688107743ea421c47c": [
+    {
+      "type": 0,
+      "value": "Выход по ПИН-коду"
+    }
+  ],
+  "pages.settings.ui.kids-section.f06b7baa332a8a98cd3e42af2b06062e": [
+    {
+      "type": 0,
+      "value": "Что-то пошло не так. Попробуйте выключить ПИН-код чуть позже"
+    }
+  ],
+  "pages.settings.ui.page.5bf5c1d5c47fd0d047c1542c32abd343": [
+    {
+      "type": 0,
+      "value": "Подписка"
+    }
+  ],
+  "pages.settings.ui.page.7c8f91b36a0ff28131bb92461b5cf738": [
+    {
+      "type": 0,
+      "value": "Детский раздел"
+    }
+  ],
+  "pages.settings.ui.page.842484fb6ad9bb3a8a2730301423a0b6": [
+    {
+      "type": 0,
+      "value": "Просмотр"
+    }
+  ],
+  "pages.settings.ui.page.c919d65bd95698af8f15fa8133bf490d": [
+    {
+      "type": 0,
+      "value": "Настройки"
+    }
+  ],
+  "pages.settings.ui.page.ddf1a181969fc9d10eaa11d320e50885": [
+    {
+      "type": 0,
+      "value": "Старая версия"
+    }
+  ],
+  "pages.settings.ui.subscription-settings.d7e386a6ea331e08f76c96ef4cd25ede": [
+    {
+      "type": 0,
+      "value": "Управление подпиской"
+    }
+  ],
+  "pages.subscriptions-section.ui.empty.485d43bccfc07755b7ee3ee8e99580fd": [
+    {
+      "type": 0,
+      "value": "К фильмам и сериалам"
+    }
+  ],
+  "pages.subscriptions-section.ui.empty.660172eb5cc73a768a2b806ca58c8868": [
+    {
+      "type": 0,
+      "value": "Для вас пока ничего нет"
+    }
+  ],
+  "pages.subscriptions-section.ui.empty.e9023d18f20be5c6c8a3b3e6beb226ce": [
+    {
+      "type": 0,
+      "value": "Попробуйте зайти позже"
+    }
+  ],
+  "pages.subscriptions-section.utils.0b2bf53a8c13e8539113b3274a7ed30a": [
+    {
+      "type": 0,
+      "value": "Оформить подписку"
+    }
+  ],
+  "pages.subscriptions-section.utils.44611deefa1ecde93491b3b49286ee36": [
+    {
+      "type": 0,
+      "value": "Добавить к подписке"
+    }
+  ],
+  "pages.subscriptions-section.utils.7f55a03c6098ba7165097b46a5a55579": [
+    {
+      "type": 0,
+      "value": "Попробовать бесплатно"
+    }
+  ],
+  "services.navigation.0608cf5e34468b2aec1ffb9532f5790c": [
+    {
+      "type": 0,
+      "value": "Выберите профиль"
+    }
+  ],
+  "services.navigation.0b536aa0842b20f3bff6d082a1eca709": [
+    {
+      "type": 0,
+      "value": "Главное"
+    }
+  ],
+  "services.navigation.0c1119c13e4817a1a5ec5bedf23a20c8": [
+    {
+      "type": 0,
+      "value": "Каналы"
+    }
+  ],
+  "services.navigation.298156c8f5cb9eb4c936ab65654d0d59": [
+    {
+      "type": 0,
+      "value": "404 - Страница не найдена"
+    }
+  ],
+  "services.navigation.36a90d9fcc594d59a6a1b8c299a46ad2": [
+    {
+      "type": 0,
+      "value": "Покупки — Кинопоиск"
+    }
+  ],
+  "services.navigation.4b99f5f649a48c2a71c7d86bdc31316e": [
+    {
+      "type": 1,
+      "value": "title"
+    },
+    {
+      "type": 0,
+      "value": " — смотреть онлайн в хорошем качестве — Кинопоиск"
+    }
+  ],
+  "services.navigation.4c7c9b8eccd8f6e9812d51e3ff948e51": [
+    {
+      "type": 0,
+      "value": "История просмотра — Кинопоиск"
+    }
+  ],
+  "services.navigation.5780a346444039b4bcd82209197beab3": [
+    {
+      "type": 0,
+      "value": "Моё - Кинопоиск"
+    }
+  ],
+  "services.navigation.623c7a91aa7d9e596dc238e6f3c12eff": [
+    {
+      "type": 0,
+      "value": "Смотреть каналы и ТВ программы онлайн на Кинопоиске"
+    }
+  ],
+  "services.navigation.6873fc48bb2804c2f0eba0139f53853a": [
+    {
+      "type": 0,
+      "value": "Сериалы смотреть онлайн в хорошем качестве — Кинопоиск"
+    }
+  ],
+  "services.navigation.711942840a057b284eea1aa961700091": [
+    {
+      "type": 0,
+      "value": "Буду смотреть"
+    }
+  ],
+  "services.navigation.7a96328ae60111e3a6b74f7a45db85d9": [
+    {
+      "type": 0,
+      "value": "История просмотра"
+    }
+  ],
+  "services.navigation.8b1d96f8de04890d0139a4ced65111b8": [
+    {
+      "type": 0,
+      "value": "Магазин"
+    }
+  ],
+  "services.navigation.8fadcb5a3ea1a83c4475d395ff09d3ef": [
+    {
+      "type": 0,
+      "value": "Фильмы смотреть онлайн в хорошем качестве — Кинопоиск"
+    }
+  ],
+  "services.navigation.9c496583b1ccd43a80b369d8d45e0d60": [
+    {
+      "type": 0,
+      "value": "Покупки"
+    }
+  ],
+  "services.navigation.9d1c80e6a4dc2311a1bd48597eda3962": [
+    {
+      "type": 0,
+      "value": "Фильмы и сериалы смотреть онлайн в хорошем качестве по подписке — Кинопоиск"
+    }
+  ],
+  "services.navigation.9f08cad8e962a3a02bb51f7fd4b137f0": [
+    {
+      "type": 0,
+      "value": "Буду смотреть — Кинопоиск"
+    }
+  ],
+  "services.navigation.a3b6ae248ec0b2195018c154e1e8116c": [
+    {
+      "type": 0,
+      "value": "Настройки профиля"
+    }
+  ],
+  "services.navigation.a464894320979fb27b09df7be9b8ef1a": [
+    {
+      "type": 0,
+      "value": "Фильмы и сериалы смотреть онлайн в хорошем качестве — Кинопоиск"
+    }
+  ],
+  "services.navigation.ac381fea8618b5b8283301efa1828ee7": [
+    {
+      "type": 0,
+      "value": "Моё"
+    }
+  ],
+  "services.navigation.ada5ba214837634f42e9232807092d6a": [
+    {
+      "type": 0,
+      "value": "Привязать ТВ-устройство"
+    }
+  ],
+  "services.navigation.aff93a146063f85245114c4495b14e2f": [
+    {
+      "type": 0,
+      "value": "Акции и специальные предложения — официальный сайт Кинопоиск"
+    }
+  ],
+  "services.navigation.c919d65bd95698af8f15fa8133bf490d": [
+    {
+      "type": 0,
+      "value": "Настройки"
+    }
+  ],
+  "services.navigation.custom-id.apple-tv-code": [
+    {
+      "type": 0,
+      "value": "Привязать ТВ-устройство"
+    }
+  ],
+  "services.navigation.d04b8e32acb4ec80cdd438b58b753bf5": [
+    {
+      "type": 0,
+      "value": "Акции от Кинопоиска позволяют смотреть любимые фильмы и сериалы дешевле, чем обычно. Ознакомиться с полным перечнем специальных предложений можно на сайте."
+    }
+  ],
+  "services.navigation.dbf9899e154beddf3f8f9bf7540bb46b": [
+    {
+      "type": 0,
+      "value": "смотреть онлайн в хорошем качестве — Кинопоиск"
+    }
+  ],
+  "services.navigation.e8766102a64bc57c6d3bc695e8fcb358": [
+    {
+      "type": 0,
+      "value": "Возрастное ограничение"
+    }
+  ],
+  "services.navigation.f19152c14b498f4eb4af50165033cbfb": [
+    {
+      "type": 0,
+      "value": "Активация промокода "
+    },
+    {
+      "type": 1,
+      "value": "promocode"
+    },
+    {
+      "type": 0,
+      "value": " - Кинопоиск"
+    }
+  ],
+  "services.navigation.f32a4ddcc033463338a25b4adea3697c": [
+    {
+      "type": 0,
+      "value": "кинопоиск hd смотреть онлайн кинотеатр хд хеде купить подписка кино сериалы бесплатно яндекс плюс"
+    }
+  ],
+  "services.navigation.f780a33986aa6f2b633f52819b0beb24": [
+    {
+      "type": 0,
+      "value": "Всегда есть что посмотреть. Новые серии в день выхода и тысячи фильмов на вечер. Без рекламы, в хорошем качестве, с любимой озвучкой или в оригинале. Смотрите кино дома и в дороге, в телевизоре и на своём мобильном устройстве."
+    }
+  ],
+  "services.supportChatWidget.662448730e42616d253de473ba48fc61": [
+    {
+      "type": 0,
+      "value": "Поддержка"
+    }
+  ]
+}

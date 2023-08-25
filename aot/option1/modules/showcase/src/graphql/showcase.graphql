@@ -1,0 +1,32 @@
+query ShowCase {
+    showcase(id:"home", ignoreCache:true){
+        __typename
+        id
+        content(offset:0, limit:10) {
+          __typename
+          sessionId
+          items {
+            __typename   
+            ... on PromoSelection {
+              __typename
+              title
+              id
+              content(offset:0, limit:10) {
+                __typename
+                items {
+                  __typename   
+                  ... on VideoMovieSelectionItem {
+                    movie {
+                      contentId  
+                      title {
+                        localized
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }            
+}

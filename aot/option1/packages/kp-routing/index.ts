@@ -1,0 +1,1 @@
+export {LinkComponent} from './src/types/link-component';
